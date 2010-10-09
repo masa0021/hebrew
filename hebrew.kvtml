@@ -3051,7 +3051,7 @@
         <text>שלט</text>
       </translation>
       <translation id="2">
-        <text>שָלָט</text>
+        <text>סָלָט</text>
       </translation>
     </entry>
     <entry id="133">
@@ -3063,7 +3063,7 @@
         <text>שלטים</text>
       </translation>
       <translation id="2">
-        <text>שָלָטִים</text>
+        <text>סָלָטִים</text>
       </translation>
     </entry>
     <entry id="134">
@@ -4471,7 +4471,6 @@
       <container>
         <name>Feminine</name>
         <specialwordtype>noun/female</specialwordtype>
-        <entry id="194"/>
       </container>
       <container>
         <name>Masculine</name>
@@ -4700,7 +4699,6 @@
       <entry id="114">
         <translation id="1"/>
       </entry>
-      <entry id="137"/>
     </container>
     <container>
       <name></name>
