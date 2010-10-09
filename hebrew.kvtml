@@ -8,7 +8,7 @@
     <contact>salm@tx.technion.ac.il</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Absolutely no warranty. Please inform me about typos.</comment>
-    <date>2010-10-08</date>
+    <date>2010-10-09</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -125,9 +125,9 @@
         <text>סטודנט</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>12</count>
+          <count>13</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:12:22</date>
+          <date>2010-10-09T12:48:28</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -149,9 +149,9 @@
         <text>סטודנטית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>2</errorcount>
-          <date>2010-09-29T23:11:53</date>
+          <date>2010-10-09T12:41:34</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -173,9 +173,9 @@
         <text>פקיד</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>2</errorcount>
-          <date>2010-09-29T23:09:19</date>
+          <date>2010-10-09T12:51:10</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -196,10 +196,10 @@
       <translation id="1">
         <text>פקידה</text>
         <grade>
-          <currentgrade>5</currentgrade>
-          <count>19</count>
+          <currentgrade>6</currentgrade>
+          <count>20</count>
           <errorcount>8</errorcount>
-          <date>2010-09-29T23:12:12</date>
+          <date>2010-10-09T12:37:12</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -221,9 +221,9 @@
         <text>ארכיטקט</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>12</count>
+          <count>13</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:06:51</date>
+          <date>2010-10-09T12:52:53</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -245,9 +245,9 @@
         <text>ארכיטקטית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:06:39</date>
+          <date>2010-10-09T12:46:15</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -268,10 +268,10 @@
       <translation id="1">
         <text>פסיכולוג</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>16</count>
+          <currentgrade>4</currentgrade>
+          <count>17</count>
           <errorcount>3</errorcount>
-          <date>2010-10-01T10:32:47</date>
+          <date>2010-10-09T12:54:34</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -293,9 +293,9 @@
         <text>פסיכולוגית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>3</errorcount>
-          <date>2010-09-29T23:09:29</date>
+          <date>2010-10-09T12:42:32</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -317,9 +317,9 @@
         <text>אני</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:10:18</date>
+          <date>2010-10-09T12:43:45</date>
         </grade>
       </translation>
       <translation id="2">
@@ -340,9 +340,9 @@
         <text>אתה</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>12</count>
+          <count>13</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:11:46</date>
+          <date>2010-10-09T12:48:55</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -363,10 +363,10 @@
       <translation id="1">
         <text>את</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>14</count>
+          <currentgrade>4</currentgrade>
+          <count>15</count>
           <errorcount>2</errorcount>
-          <date>2010-09-29T23:07:03</date>
+          <date>2010-10-09T12:38:35</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -388,9 +388,9 @@
         <text>הוא</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:09:51</date>
+          <date>2010-10-09T12:42:04</date>
         </grade>
       </translation>
       <translation id="2">
@@ -411,9 +411,9 @@
         <text>היא</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:07:28</date>
+          <date>2010-10-09T12:41:23</date>
         </grade>
       </translation>
       <translation id="2">
@@ -434,9 +434,9 @@
         <text>כן</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:10:40</date>
+          <date>2010-10-09T12:48:51</date>
         </grade>
       </translation>
       <translation id="2">
@@ -457,9 +457,9 @@
         <text>מי</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:08:11</date>
+          <date>2010-10-09T12:40:56</date>
         </grade>
       </translation>
       <translation id="2">
@@ -480,9 +480,9 @@
         <text>לא</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:06:23</date>
+          <date>2010-10-09T12:53:56</date>
         </grade>
       </translation>
       <translation id="2">
@@ -503,9 +503,9 @@
         <text>אדון</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:07:11</date>
+          <date>2010-10-09T12:50:50</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -527,9 +527,9 @@
         <text>גברת</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>12</count>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2010-09-29T23:09:33</date>
+          <date>2010-10-09T12:41:20</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -551,9 +551,9 @@
         <text>זה</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>11</count>
+          <count>12</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:07:24</date>
+          <date>2010-10-09T12:44:39</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -575,9 +575,9 @@
         <text>זאת</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>15</count>
+          <count>16</count>
           <errorcount>4</errorcount>
-          <date>2010-09-29T23:08:44</date>
+          <date>2010-10-09T12:40:50</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -599,9 +599,9 @@
         <text>פיזיקאי</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>12</count>
+          <count>13</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:08:38</date>
+          <date>2010-10-09T12:36:50</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -622,10 +622,10 @@
       <translation id="1">
         <text>פיזיקאית</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>14</count>
+          <currentgrade>5</currentgrade>
+          <count>15</count>
           <errorcount>3</errorcount>
-          <date>2010-09-29T23:09:12</date>
+          <date>2010-10-09T12:43:51</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -646,10 +646,10 @@
       <translation id="1">
         <text>טכנאי</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>16</count>
+          <currentgrade>5</currentgrade>
+          <count>17</count>
           <errorcount>5</errorcount>
-          <date>2010-09-29T23:10:55</date>
+          <date>2010-10-09T12:41:55</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -670,10 +670,10 @@
       <translation id="1">
         <text>טכנאית</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>17</count>
+          <currentgrade>4</currentgrade>
+          <count>18</count>
           <errorcount>4</errorcount>
-          <date>2010-10-01T10:33:22</date>
+          <date>2010-10-09T12:44:31</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -695,9 +695,9 @@
         <text>שלום</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:25:02</date>
+          <date>2010-10-09T12:40:42</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -719,9 +719,9 @@
         <text>מה נשמע</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>18</count>
+          <count>19</count>
           <errorcount>5</errorcount>
-          <date>2010-09-29T23:24:00</date>
+          <date>2010-10-09T12:54:09</date>
         </grade>
       </translation>
       <translation id="2">
@@ -742,9 +742,9 @@
         <text>מה</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:23:32</date>
+          <date>2010-10-09T12:40:39</date>
         </grade>
       </translation>
       <translation id="2">
@@ -765,9 +765,9 @@
         <text>תודה</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:23:30</date>
+          <date>2010-10-09T12:48:59</date>
         </grade>
       </translation>
       <translation id="2">
@@ -787,10 +787,10 @@
       <translation id="1">
         <text>רע</text>
         <grade>
-          <currentgrade>7</currentgrade>
-          <count>13</count>
-          <errorcount>0</errorcount>
-          <date>2010-09-29T23:25:23</date>
+          <currentgrade>1</currentgrade>
+          <count>15</count>
+          <errorcount>1</errorcount>
+          <date>2010-10-09T12:52:45</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -812,9 +812,9 @@
         <text>עכשיו</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>18</count>
+          <count>19</count>
           <errorcount>5</errorcount>
-          <date>2010-09-29T23:24:45</date>
+          <date>2010-10-09T12:54:20</date>
         </grade>
       </translation>
       <translation id="2">
@@ -835,9 +835,9 @@
         <text>גם</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:23:40</date>
+          <date>2010-10-09T12:37:00</date>
         </grade>
       </translation>
       <translation id="2">
@@ -859,9 +859,9 @@
         <text>ב</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:24:47</date>
+          <date>2010-10-09T12:47:03</date>
         </grade>
       </translation>
       <translation id="2">
@@ -882,9 +882,9 @@
         <text>ו</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:25:18</date>
+          <date>2010-10-09T12:44:25</date>
         </grade>
       </translation>
       <translation id="2">
@@ -904,10 +904,10 @@
       <translation id="1">
         <text>שם</text>
         <grade>
-          <currentgrade>7</currentgrade>
-          <count>14</count>
-          <errorcount>1</errorcount>
-          <date>2010-09-29T23:24:50</date>
+          <currentgrade>1</currentgrade>
+          <count>16</count>
+          <errorcount>2</errorcount>
+          <date>2010-10-09T12:54:38</date>
         </grade>
       </translation>
       <translation id="2">
@@ -928,9 +928,9 @@
         <text>איפה</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:25:21</date>
+          <date>2010-10-09T12:40:53</date>
         </grade>
       </translation>
       <translation id="2">
@@ -951,9 +951,9 @@
         <text>עברית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:25:26</date>
+          <date>2010-10-09T12:48:10</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -975,9 +975,9 @@
         <text>משרד</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:24:55</date>
+          <date>2010-10-09T12:41:49</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -999,9 +999,9 @@
         <text>אנגלית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:23:38</date>
+          <date>2010-10-09T12:48:15</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1022,10 +1022,10 @@
       <translation id="1">
         <text>צרפתית</text>
         <grade>
-          <currentgrade>7</currentgrade>
-          <count>22</count>
-          <errorcount>9</errorcount>
-          <date>2010-09-29T23:24:59</date>
+          <currentgrade>1</currentgrade>
+          <count>25</count>
+          <errorcount>11</errorcount>
+          <date>2010-10-09T12:55:04</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1047,9 +1047,9 @@
         <text>רוסית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:25:17</date>
+          <date>2010-10-09T12:53:24</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1071,9 +1071,9 @@
         <text>איטלקית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>15</count>
+          <count>16</count>
           <errorcount>2</errorcount>
-          <date>2010-09-29T23:23:44</date>
+          <date>2010-10-09T12:46:54</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1095,9 +1095,9 @@
         <text>שוודית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:23:47</date>
+          <date>2010-10-09T12:52:42</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1119,9 +1119,9 @@
         <text>דנית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>13</count>
+          <count>14</count>
           <errorcount>0</errorcount>
-          <date>2010-09-29T23:23:50</date>
+          <date>2010-10-09T12:47:10</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1143,9 +1143,9 @@
         <text>ערבית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:23:54</date>
+          <date>2010-10-09T12:46:20</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1167,9 +1167,9 @@
         <text>יפנית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:24:05</date>
+          <date>2010-10-09T12:44:53</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1191,9 +1191,9 @@
         <text>גרמנית</text>
         <grade>
           <currentgrade>7</currentgrade>
-          <count>14</count>
+          <count>15</count>
           <errorcount>1</errorcount>
-          <date>2010-09-29T23:23:35</date>
+          <date>2010-10-09T12:44:45</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1214,10 +1214,10 @@
       <translation id="1">
         <text>אוניברסיטה</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>16</count>
+          <currentgrade>4</currentgrade>
+          <count>17</count>
           <errorcount>1</errorcount>
-          <date>2010-10-01T10:32:54</date>
+          <date>2010-10-09T12:42:39</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1232,10 +1232,10 @@
       <translation id="1">
         <text>אמא</text>
         <grade>
-          <currentgrade>6</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:33:50</date>
+          <date>2010-10-09T12:45:54</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1250,10 +1250,10 @@
       <translation id="1">
         <text>אירלנד</text>
         <grade>
-          <currentgrade>6</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:27:56</date>
+          <date>2010-10-09T12:53:30</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1268,10 +1268,10 @@
       <translation id="1">
         <text>יין</text>
         <grade>
-          <currentgrade>6</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:26:25</date>
+          <date>2010-10-09T12:44:57</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1286,10 +1286,10 @@
       <translation id="1">
         <text>ים</text>
         <grade>
-          <currentgrade>6</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:21:45</date>
+          <date>2010-10-09T12:53:59</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1304,10 +1304,10 @@
       <translation id="1">
         <text>מים</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>7</count>
+          <currentgrade>2</currentgrade>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:26:37</date>
+          <date>2010-10-09T12:41:58</date>
         </grade>
         <comment>(m,pl)</comment>
       </translation>
@@ -1322,10 +1322,10 @@
       <translation id="1">
         <text>מאין</text>
         <grade>
-          <currentgrade>6</currentgrade>
-          <count>8</count>
+          <currentgrade>7</currentgrade>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:21:39</date>
+          <date>2010-10-09T12:48:23</date>
         </grade>
       </translation>
       <translation id="2">
@@ -1339,10 +1339,10 @@
       <translation id="1">
         <text>מן</text>
         <grade>
-          <currentgrade>6</currentgrade>
-          <count>6</count>
-          <errorcount>0</errorcount>
-          <date>2010-10-08T14:23:42</date>
+          <currentgrade>1</currentgrade>
+          <count>8</count>
+          <errorcount>1</errorcount>
+          <date>2010-10-09T12:54:03</date>
         </grade>
       </translation>
       <translation id="2">
@@ -1356,10 +1356,10 @@
       <translation id="1">
         <text>איש</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:23:54</date>
+          <date>2010-10-09T12:41:10</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1374,10 +1374,10 @@
       <translation id="1">
         <text>אישה</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>8</count>
+          <currentgrade>3</currentgrade>
+          <count>9</count>
           <errorcount>3</errorcount>
-          <date>2010-10-08T14:30:58</date>
+          <date>2010-10-09T12:53:54</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1392,10 +1392,10 @@
       <translation id="1">
         <text>גלידה</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:29:55</date>
+          <date>2010-10-09T12:48:03</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1411,10 +1411,10 @@
       <translation id="1">
         <text>הר</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>7</count>
+          <currentgrade>4</currentgrade>
+          <count>8</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:21:47</date>
+          <date>2010-10-09T12:47:00</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1429,10 +1429,10 @@
       <translation id="1">
         <text>ילד</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:31:04</date>
+          <date>2010-10-09T12:47:08</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1447,10 +1447,10 @@
       <translation id="1">
         <text>ילדה</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>6</count>
+          <currentgrade>2</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:30:10</date>
+          <date>2010-10-09T12:54:29</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1465,10 +1465,10 @@
       <translation id="1">
         <text>מורה</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>6</count>
+          <currentgrade>5</currentgrade>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:32:01</date>
+          <date>2010-10-09T12:43:42</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1483,10 +1483,10 @@
       <translation id="1">
         <text>שיר</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:21:55</date>
+          <date>2010-10-09T12:50:42</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1501,10 +1501,10 @@
       <translation id="1">
         <text>תה</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:21:41</date>
+          <date>2010-10-09T12:44:42</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1519,10 +1519,10 @@
       <translation id="1">
         <text>תלמיד</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
+          <currentgrade>2</currentgrade>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:34:37</date>
+          <date>2010-10-09T12:49:35</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1537,10 +1537,10 @@
       <translation id="1">
         <text>תלמידה</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>6</count>
+          <currentgrade>5</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:29:51</date>
+          <date>2010-10-09T12:36:56</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1555,10 +1555,10 @@
       <translation id="1">
         <text>מורה</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:30:38</date>
+          <date>2010-10-09T12:50:36</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1573,10 +1573,10 @@
       <translation id="1">
         <text>שמש</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:23:37</date>
+          <date>2010-10-09T12:42:07</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1591,10 +1591,10 @@
       <translation id="1">
         <text>של</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:23:51</date>
+          <date>2010-10-09T12:41:03</date>
         </grade>
       </translation>
       <translation id="2">
@@ -1608,10 +1608,10 @@
       <translation id="1">
         <text>הנה</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:31:46</date>
+          <date>2010-10-09T12:43:59</date>
         </grade>
       </translation>
       <translation id="2">
@@ -1625,10 +1625,10 @@
       <translation id="1">
         <text>חבר</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>5</count>
+          <currentgrade>4</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:34:21</date>
+          <date>2010-10-09T12:41:43</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1644,9 +1644,9 @@
         <text>חברה</text>
         <grade>
           <currentgrade>1</currentgrade>
-          <count>5</count>
-          <errorcount>2</errorcount>
-          <date>2010-10-08T14:33:42</date>
+          <count>7</count>
+          <errorcount>3</errorcount>
+          <date>2010-10-09T12:40:01</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1662,10 +1662,10 @@
       <translation id="1">
         <text>חלה</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:22:03</date>
+          <date>2010-10-09T12:48:05</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1680,10 +1680,10 @@
       <translation id="1">
         <text>לחם</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:30:53</date>
+          <date>2010-10-09T12:53:20</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1698,10 +1698,10 @@
       <translation id="1">
         <text>לימון</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:34:01</date>
+          <date>2010-10-09T12:36:44</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1716,10 +1716,10 @@
       <translation id="1">
         <text>מלח</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>4</count>
+          <currentgrade>4</currentgrade>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:30:02</date>
+          <date>2010-10-09T12:38:41</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1734,10 +1734,10 @@
       <translation id="1">
         <text>אנחנו</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
+          <currentgrade>2</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:34:33</date>
+          <date>2010-10-09T12:42:17</date>
         </grade>
       </translation>
       <translation id="2">
@@ -1751,10 +1751,10 @@
       <translation id="1">
         <text>אתם</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:29:08</date>
+          <date>2010-10-09T12:41:00</date>
         </grade>
         <comment>(m,pl)</comment>
       </translation>
@@ -1769,10 +1769,10 @@
       <translation id="1">
         <text>אתן</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:22:29</date>
+          <date>2010-10-09T12:50:40</date>
         </grade>
         <comment>(f,pl)</comment>
       </translation>
@@ -1787,10 +1787,10 @@
       <translation id="1">
         <text>הם</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:31:13</date>
+          <date>2010-10-09T12:53:12</date>
         </grade>
         <comment>(m)</comment>
       </translation>
@@ -1805,10 +1805,10 @@
       <translation id="1">
         <text>הן</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:32:05</date>
+          <date>2010-10-09T12:50:47</date>
         </grade>
         <comment>(f)</comment>
       </translation>
@@ -1823,10 +1823,10 @@
       <translation id="1">
         <text>או</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>5</count>
+          <currentgrade>4</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2010-10-08T14:29:10</date>
+          <date>2010-10-09T12:41:12</date>
         </grade>
       </translation>
       <translation id="2">
@@ -1841,10 +1841,10 @@
       <translation id="1">
         <text>לשיר</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:22:07</date>
+          <date>2010-10-09T12:44:35</date>
         </grade>
         <conjugation/>
         <conjugation>
@@ -1899,10 +1899,10 @@
       <translation id="1">
         <text>לבוא</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>9</count>
+          <currentgrade>3</currentgrade>
+          <count>10</count>
           <errorcount>5</errorcount>
-          <date>2010-10-08T14:29:22</date>
+          <date>2010-10-09T12:39:19</date>
         </grade>
         <conjugation>
           <tense>Present</tense>
@@ -1956,10 +1956,10 @@
       <translation id="1">
         <text>לגור</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:30:19</date>
+          <date>2010-10-09T12:53:50</date>
         </grade>
         <conjugation/>
         <comment>גָר,גָרָה</comment>
@@ -1995,10 +1995,10 @@
       <translation id="1">
         <text>ל</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:26:03</date>
+          <date>2010-10-09T12:36:38</date>
         </grade>
       </translation>
       <translation id="2">
@@ -2012,10 +2012,10 @@
       <translation id="1">
         <text>רומנית</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2010-10-08T14:22:00</date>
+          <date>2010-10-09T12:38:47</date>
         </grade>
       </translation>
       <translation id="2">
@@ -2031,9 +2031,9 @@
         <text>לקום</text>
         <grade>
           <currentgrade>1</currentgrade>
-          <count>8</count>
-          <errorcount>4</errorcount>
-          <date>2010-10-08T14:34:10</date>
+          <count>10</count>
+          <errorcount>5</errorcount>
+          <date>2010-10-09T12:44:49</date>
         </grade>
         <conjugation>
           <tense>Present</tense>
@@ -2087,10 +2087,10 @@
       <translation id="1">
         <text>לרוץ</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2010-10-08T14:23:03</date>
+          <date>2010-10-09T12:43:36</date>
         </grade>
         <conjugation>
           <tense>Present</tense>
@@ -2379,7 +2379,7 @@
         <text>בית</text>
       </translation>
       <translation id="2">
-        <text>בֵּית</text>
+        <text>בָּית</text>
       </translation>
     </entry>
     <entry id="100">
@@ -2391,7 +2391,7 @@
         <text>בתים</text>
       </translation>
       <translation id="2">
-        <text>בַּתִים</text>
+        <text>בָּתִים</text>
       </translation>
     </entry>
     <entry id="101">
@@ -2795,6 +2795,313 @@
     </entry>
     <entry id="121">
       <translation id="0">
+        <text>restaurants</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="1">
+        <text>מסעדות</text>
+      </translation>
+      <translation id="2">
+        <text>מִסְעָדָוֹת</text>
+      </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>to buy</text>
+        <comment>[kal]</comment>
+      </translation>
+      <translation id="1">
+        <text>לקנות</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>קונה</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>קונה</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>קונים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>קונות</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+        <comment>קוֹנֶה,קוֹנָה</comment>
+      </translation>
+      <translation id="2">
+        <text>לִקְנוֹת</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>קוֹנֶה</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>קוֹנָה</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>קוֹנִים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>קוֹנוֹת</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+      </translation>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>to make</text>
+        <comment>[kal] (do)</comment>
+      </translation>
+      <translation id="1">
+        <text>לעשות</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>עושה</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עושה</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>עושים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עושות</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+        <comment>עוֹשֶֹה,עוֹשָֹה</comment>
+      </translation>
+      <translation id="2">
+        <text>לַעֲשֹוֹת</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>עוֹשֶֹה</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עוֹשָֹה</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>עוֹשִֹים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עוֹשֹוֹת</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+      </translation>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>to work</text>
+        <comment>[kal]</comment>
+      </translation>
+      <translation id="1">
+        <text>לעבוד</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>עובד</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עובדת</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>עובדים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עובדות</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+        <comment>עוֹבֵד,עוֹבֶדֶת</comment>
+      </translation>
+      <translation id="2">
+        <text>לַעֲבוֹד</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>עוֹבֵד</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עוֹבֶדֶת</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>עוֹבְדִים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>עוֹבְדוֹת</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+      </translation>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>country</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="1">
+        <text>ארץ</text>
+      </translation>
+      <translation id="2">
+        <text>אֶרֶץ</text>
+      </translation>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>countries</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="1">
+        <text>ארצות</text>
+      </translation>
+      <translation id="2">
+        <text>אָרְצוֹת</text>
+      </translation>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>juice</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="1">
+        <text>מיץ</text>
+      </translation>
+      <translation id="2">
+        <text>מִיץ</text>
+      </translation>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>juices</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="1">
+        <text>מיצים</text>
+      </translation>
+      <translation id="2">
+        <text>מִיצִים</text>
+      </translation>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>restaurant</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="1">
+        <text>מסעדה</text>
+      </translation>
+      <translation id="2">
+        <text>מִסְעָדָה</text>
+      </translation>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>cake</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="1">
+        <text>עוגה</text>
+      </translation>
+      <translation id="2">
+        <text>עוּגָה</text>
+      </translation>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>cakes</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="1">
+        <text>עוגות</text>
+      </translation>
+      <translation id="2">
+        <text>עוּגָוֹת</text>
+      </translation>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>salad</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="1">
+        <text>שלט</text>
+      </translation>
+      <translation id="2">
+        <text>שָלָט</text>
+      </translation>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>salads</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="1">
+        <text>שלטים</text>
+      </translation>
+      <translation id="2">
+        <text>שָלָטִים</text>
+      </translation>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>chocolate</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="1">
+        <text>שוקולד</text>
+      </translation>
+      <translation id="2">
+        <text>שׁוֹקוֹלָד</text>
+      </translation>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>sorry</text>
+      </translation>
+      <translation id="1">
+        <text>סליחה</text>
+      </translation>
+      <translation id="2">
+        <text>סְלִיחָה</text>
+      </translation>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>maybe</text>
+      </translation>
+      <translation id="1">
+        <text>אולי</text>
+      </translation>
+      <translation id="2">
+        <text>אוּלַי</text>
+      </translation>
+    </entry>
+    <entry id="137">
+      <translation id="0">
         <text>when</text>
       </translation>
       <translation id="1">
@@ -2804,7 +3111,7 @@
         <text>מָתַי</text>
       </translation>
     </entry>
-    <entry id="122">
+    <entry id="138">
       <translation id="0">
         <text>why</text>
       </translation>
@@ -2815,7 +3122,7 @@
         <text>לָמָה</text>
       </translation>
     </entry>
-    <entry id="123">
+    <entry id="139">
       <translation id="0">
         <text>how much</text>
       </translation>
@@ -2826,7 +3133,7 @@
         <text>כַּמָה</text>
       </translation>
     </entry>
-    <entry id="124">
+    <entry id="140">
       <translation id="0">
         <text>how</text>
       </translation>
@@ -2837,7 +3144,7 @@
         <text>אֵיךְ</text>
       </translation>
     </entry>
-    <entry id="125">
+    <entry id="141">
       <translation id="0">
         <text>Australia</text>
       </translation>
@@ -2848,7 +3155,7 @@
         <text>אוֹסְטְרַלְיָה</text>
       </translation>
     </entry>
-    <entry id="126">
+    <entry id="142">
       <translation id="0">
         <text>English</text>
       </translation>
@@ -2859,7 +3166,7 @@
         <text>אַנְגְלִת</text>
       </translation>
     </entry>
-    <entry id="127">
+    <entry id="143">
       <translation id="0">
         <text>Latin America</text>
       </translation>
@@ -2870,7 +3177,7 @@
         <text>אֲמֶרִיקָה הַלַטִינִית</text>
       </translation>
     </entry>
-    <entry id="128">
+    <entry id="144">
       <translation id="0">
         <text>American</text>
       </translation>
@@ -2881,7 +3188,7 @@
         <text>אֲמֶרִיקָנִי</text>
       </translation>
     </entry>
-    <entry id="129">
+    <entry id="145">
       <translation id="0">
         <text>England</text>
       </translation>
@@ -2892,7 +3199,7 @@
         <text>אַנְגְלִיָה</text>
       </translation>
     </entry>
-    <entry id="130">
+    <entry id="146">
       <translation id="0">
         <text>America</text>
       </translation>
@@ -2903,7 +3210,7 @@
         <text>אֲמֶרִיקָה</text>
       </translation>
     </entry>
-    <entry id="131">
+    <entry id="147">
       <translation id="0">
         <text>farmer</text>
       </translation>
@@ -2914,7 +3221,7 @@
         <text>אִיכָּר</text>
       </translation>
     </entry>
-    <entry id="132">
+    <entry id="148">
       <translation id="0">
         <text>numbers</text>
       </translation>
@@ -2925,7 +3232,7 @@
         <text>מִסְפָּרִים</text>
       </translation>
     </entry>
-    <entry id="133">
+    <entry id="149">
       <translation id="0">
         <text>bus</text>
       </translation>
@@ -2943,7 +3250,7 @@
         <text>אוֹטוֹבּוּס</text>
       </translation>
     </entry>
-    <entry id="134">
+    <entry id="150">
       <translation id="0">
         <text>vending machine</text>
       </translation>
@@ -2960,7 +3267,7 @@
         <text>אוֹטוֹמַט</text>
       </translation>
     </entry>
-    <entry id="135">
+    <entry id="151">
       <translation id="0">
         <text>autograph</text>
       </translation>
@@ -2971,7 +3278,7 @@
         <text>אוֹטוֹגְרַף</text>
       </translation>
     </entry>
-    <entry id="136">
+    <entry id="152">
       <translation id="0">
         <text>energy</text>
       </translation>
@@ -2982,7 +3289,7 @@
         <text>אֶנֶרְגְיָה</text>
       </translation>
     </entry>
-    <entry id="137">
+    <entry id="153">
       <translation id="0">
         <text>wave</text>
       </translation>
@@ -2993,7 +3300,7 @@
         <text>גַל</text>
       </translation>
     </entry>
-    <entry id="138">
+    <entry id="154">
       <translation id="0">
         <text>wheel</text>
       </translation>
@@ -3010,7 +3317,7 @@
         <text>גַלְגַל</text>
       </translation>
     </entry>
-    <entry id="139">
+    <entry id="155">
       <translation id="0">
         <text>mail</text>
       </translation>
@@ -3021,7 +3328,7 @@
         <text>דוֹאַר</text>
       </translation>
     </entry>
-    <entry id="140">
+    <entry id="156">
       <translation id="0">
         <text>lake</text>
       </translation>
@@ -3032,7 +3339,7 @@
         <text>אֲגָם</text>
       </translation>
     </entry>
-    <entry id="141">
+    <entry id="157">
       <translation id="0">
         <text>office</text>
       </translation>
@@ -3044,7 +3351,7 @@
         <text>חֲדַר עֲבוֹדָה</text>
       </translation>
     </entry>
-    <entry id="142">
+    <entry id="158">
       <translation id="0">
         <text>kitchen</text>
       </translation>
@@ -3055,7 +3362,7 @@
         <text>מִטְבָּה</text>
       </translation>
     </entry>
-    <entry id="143">
+    <entry id="159">
       <translation id="0">
         <text>dining room</text>
       </translation>
@@ -3066,7 +3373,7 @@
         <text>חֲדַר אֹכֶל</text>
       </translation>
     </entry>
-    <entry id="144">
+    <entry id="160">
       <translation id="0">
         <text>bedroom</text>
       </translation>
@@ -3077,7 +3384,7 @@
         <text>חֲדַר שֵׁינָה</text>
       </translation>
     </entry>
-    <entry id="145">
+    <entry id="161">
       <translation id="0">
         <text>garage</text>
       </translation>
@@ -3088,7 +3395,7 @@
         <text>מוּסָךְ</text>
       </translation>
     </entry>
-    <entry id="146">
+    <entry id="162">
       <translation id="0">
         <text>toilet</text>
       </translation>
@@ -3099,7 +3406,7 @@
         <text>שֵׁירוּתִים</text>
       </translation>
     </entry>
-    <entry id="147">
+    <entry id="163">
       <translation id="0">
         <text>picture</text>
       </translation>
@@ -3110,7 +3417,7 @@
         <text>תְמוּנָה</text>
       </translation>
     </entry>
-    <entry id="148">
+    <entry id="164">
       <translation id="0">
         <text>bathroom</text>
       </translation>
@@ -3121,7 +3428,7 @@
         <text>חֲדַר אַמְבַּטְיָה</text>
       </translation>
     </entry>
-    <entry id="149">
+    <entry id="165">
       <translation id="0">
         <text>living room</text>
       </translation>
@@ -3132,7 +3439,7 @@
         <text>סָלוֹן</text>
       </translation>
     </entry>
-    <entry id="150">
+    <entry id="166">
       <translation id="0">
         <text>window</text>
       </translation>
@@ -3141,7 +3448,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="151">
+    <entry id="167">
       <translation id="0">
         <text>sofa</text>
       </translation>
@@ -3152,7 +3459,7 @@
         <text>סָפָּה</text>
       </translation>
     </entry>
-    <entry id="152">
+    <entry id="168">
       <translation id="0">
         <text>carpet</text>
       </translation>
@@ -3163,7 +3470,7 @@
         <text>שָׁטִיחַ</text>
       </translation>
     </entry>
-    <entry id="153">
+    <entry id="169">
       <translation id="0">
         <text>basement</text>
       </translation>
@@ -3174,7 +3481,7 @@
         <text>מַרְתֵףּ</text>
       </translation>
     </entry>
-    <entry id="154">
+    <entry id="170">
       <translation id="0">
         <text>mailbox</text>
       </translation>
@@ -3185,7 +3492,7 @@
         <text>תֵיבַת דוֹאַר</text>
       </translation>
     </entry>
-    <entry id="155">
+    <entry id="171">
       <translation id="0">
         <text>red</text>
       </translation>
@@ -3196,7 +3503,7 @@
         <text>אָדוֹם</text>
       </translation>
     </entry>
-    <entry id="156">
+    <entry id="172">
       <translation id="0">
         <text>orange</text>
       </translation>
@@ -3207,7 +3514,7 @@
         <text>כָּתוֹם</text>
       </translation>
     </entry>
-    <entry id="157">
+    <entry id="173">
       <translation id="0">
         <text>blue</text>
       </translation>
@@ -3218,7 +3525,7 @@
         <text>כָּחוֹל</text>
       </translation>
     </entry>
-    <entry id="158">
+    <entry id="174">
       <translation id="0">
         <text>yellow</text>
       </translation>
@@ -3229,7 +3536,7 @@
         <text>צָהוֹב</text>
       </translation>
     </entry>
-    <entry id="159">
+    <entry id="175">
       <translation id="0">
         <text>green</text>
       </translation>
@@ -3240,7 +3547,7 @@
         <text>יָרוֹק</text>
       </translation>
     </entry>
-    <entry id="160">
+    <entry id="176">
       <translation id="0">
         <text>white</text>
       </translation>
@@ -3251,7 +3558,7 @@
         <text>לָבָן</text>
       </translation>
     </entry>
-    <entry id="161">
+    <entry id="177">
       <translation id="0">
         <text>brown</text>
       </translation>
@@ -3262,7 +3569,7 @@
         <text>חוּם</text>
       </translation>
     </entry>
-    <entry id="162">
+    <entry id="178">
       <translation id="0">
         <text>black</text>
       </translation>
@@ -3273,7 +3580,7 @@
         <text>שָׁחוֹר</text>
       </translation>
     </entry>
-    <entry id="163">
+    <entry id="179">
       <translation id="0">
         <text>colorful</text>
       </translation>
@@ -3284,7 +3591,7 @@
         <text>צִבְעוֹנִי</text>
       </translation>
     </entry>
-    <entry id="164">
+    <entry id="180">
       <translation id="0">
         <text>gray</text>
       </translation>
@@ -3301,7 +3608,7 @@
         <text>אָפוֹר</text>
       </translation>
     </entry>
-    <entry id="165">
+    <entry id="181">
       <translation id="0">
         <text>pink</text>
       </translation>
@@ -3312,7 +3619,7 @@
         <text>וָרוֹד</text>
       </translation>
     </entry>
-    <entry id="166">
+    <entry id="182">
       <translation id="0">
         <text>alcohol</text>
       </translation>
@@ -3323,7 +3630,7 @@
         <text>אַלְכּוֹהוֹל</text>
       </translation>
     </entry>
-    <entry id="167">
+    <entry id="183">
       <translation id="0">
         <text>elegant</text>
       </translation>
@@ -3334,7 +3641,7 @@
         <text>אֶלֶגַנְטִי</text>
       </translation>
     </entry>
-    <entry id="168">
+    <entry id="184">
       <translation id="0">
         <text>good</text>
       </translation>
@@ -3345,7 +3652,7 @@
         <text>טוֹב</text>
       </translation>
     </entry>
-    <entry id="169">
+    <entry id="185">
       <translation id="0">
         <text>artist</text>
       </translation>
@@ -3356,7 +3663,7 @@
         <text>אֳמָן</text>
       </translation>
     </entry>
-    <entry id="170">
+    <entry id="186">
       <translation id="0">
         <text>h</text>
       </translation>
@@ -3373,7 +3680,7 @@
         <text>אַנְטִיבְּיוֹטִיקָה</text>
       </translation>
     </entry>
-    <entry id="171">
+    <entry id="187">
       <translation id="0">
         <text>ambulance</text>
       </translation>
@@ -3384,7 +3691,7 @@
         <text>אַמְבּוּלַנְס</text>
       </translation>
     </entry>
-    <entry id="172">
+    <entry id="188">
       <translation id="0">
         <text>infection</text>
       </translation>
@@ -3395,7 +3702,7 @@
         <text>אִינְפֶקְצְיָה</text>
       </translation>
     </entry>
-    <entry id="173">
+    <entry id="189">
       <translation id="0">
         <text>street</text>
       </translation>
@@ -3412,18 +3719,7 @@
         <text>רְחוֹב</text>
       </translation>
     </entry>
-    <entry id="174">
-      <translation id="0">
-        <text>restaurant</text>
-      </translation>
-      <translation id="1">
-        <text>מסעדה</text>
-      </translation>
-      <translation id="2">
-        <text>מִסְעָדָה</text>
-      </translation>
-    </entry>
-    <entry id="175">
+    <entry id="190">
       <translation id="0">
         <text>hotel</text>
       </translation>
@@ -3440,7 +3736,7 @@
         <text>מָלוֹן</text>
       </translation>
     </entry>
-    <entry id="176">
+    <entry id="191">
       <translation id="0">
         <text>opera</text>
       </translation>
@@ -3457,7 +3753,7 @@
         <text>אוֹפֶּרָה</text>
       </translation>
     </entry>
-    <entry id="177">
+    <entry id="192">
       <translation id="0">
         <text>bank</text>
       </translation>
@@ -3468,7 +3764,7 @@
         <text>בַּנְק</text>
       </translation>
     </entry>
-    <entry id="178">
+    <entry id="193">
       <translation id="0">
         <text>cafe</text>
       </translation>
@@ -3479,7 +3775,7 @@
         <text>בַּית קָפֶה</text>
       </translation>
     </entry>
-    <entry id="179">
+    <entry id="194">
       <translation id="0">
         <text>motorcycle</text>
       </translation>
@@ -3496,7 +3792,7 @@
         <text>אוֹפַנוֹעַ</text>
       </translation>
     </entry>
-    <entry id="180">
+    <entry id="195">
       <translation id="0">
         <text>car</text>
       </translation>
@@ -3513,7 +3809,7 @@
         <text>מְכוֹנִית</text>
       </translation>
     </entry>
-    <entry id="181">
+    <entry id="196">
       <translation id="0">
         <text>father</text>
       </translation>
@@ -3524,7 +3820,7 @@
         <text>אַבָּא</text>
       </translation>
     </entry>
-    <entry id="182">
+    <entry id="197">
       <translation id="0">
         <text>grandfather</text>
       </translation>
@@ -3535,7 +3831,7 @@
         <text>שַבָּא</text>
       </translation>
     </entry>
-    <entry id="183">
+    <entry id="198">
       <translation id="0">
         <text>uncle</text>
       </translation>
@@ -3546,7 +3842,7 @@
         <text>דוֹד</text>
       </translation>
     </entry>
-    <entry id="184">
+    <entry id="199">
       <translation id="0">
         <text>aunt</text>
       </translation>
@@ -3557,7 +3853,7 @@
         <text>דוֹדָה</text>
       </translation>
     </entry>
-    <entry id="185">
+    <entry id="200">
       <translation id="0">
         <text>bicycle</text>
       </translation>
@@ -3568,7 +3864,7 @@
         <text>אוֹפַנַיִם</text>
       </translation>
     </entry>
-    <entry id="186">
+    <entry id="201">
       <translation id="0">
         <text>book</text>
       </translation>
@@ -3579,7 +3875,7 @@
         <text>סֵפֶר</text>
       </translation>
     </entry>
-    <entry id="187">
+    <entry id="202">
       <translation id="0">
         <text>please</text>
       </translation>
@@ -3596,7 +3892,7 @@
         <text>בְּבַקָשָׁה</text>
       </translation>
     </entry>
-    <entry id="188">
+    <entry id="203">
       <translation id="0">
         <text>Shabbat</text>
       </translation>
@@ -3607,7 +3903,7 @@
         <text>שַׁבַּת</text>
       </translation>
     </entry>
-    <entry id="189">
+    <entry id="204">
       <translation id="0">
         <text>morning</text>
       </translation>
@@ -3622,8 +3918,10 @@
   <lessons>
     <container>
       <name>Class A</name>
+      <inpractice>true</inpractice>
       <container>
         <name>Lesson A.1</name>
+        <inpractice>true</inpractice>
         <entry id="0"/>
         <entry id="1"/>
         <entry id="2"/>
@@ -3651,6 +3949,7 @@
       </container>
       <container>
         <name>Lesson A.2</name>
+        <inpractice>true</inpractice>
         <entry id="24"/>
         <entry id="25"/>
         <entry id="26"/>
@@ -3680,6 +3979,7 @@
       <name>Class B</name>
       <container>
         <name>Lesson B.2</name>
+        <inpractice>true</inpractice>
         <entry id="47"/>
         <entry id="48"/>
         <entry id="49"/>
@@ -3690,6 +3990,7 @@
       </container>
       <container>
         <name>Lesson B.3</name>
+        <inpractice>true</inpractice>
         <entry id="54"/>
         <entry id="55"/>
         <entry id="56"/>
@@ -3708,6 +4009,7 @@
       </container>
       <container>
         <name>Lesson B.4</name>
+        <inpractice>true</inpractice>
         <entry id="69"/>
         <entry id="70"/>
         <entry id="71"/>
@@ -3769,11 +4071,9 @@
         <entry id="119"/>
         <entry id="120"/>
       </container>
-    </container>
-    <container>
-      <name>Class C</name>
       <container>
-        <name>Lesson C.ToDo</name>
+        <name>Lesson B.7</name>
+        <inpractice>true</inpractice>
         <entry id="121"/>
         <entry id="122"/>
         <entry id="123"/>
@@ -3790,6 +4090,12 @@
         <entry id="134"/>
         <entry id="135"/>
         <entry id="136"/>
+      </container>
+    </container>
+    <container>
+      <name>Class C</name>
+      <container>
+        <name>Lesson C.ToDo</name>
         <entry id="137"/>
         <entry id="138"/>
         <entry id="139"/>
@@ -3843,6 +4149,21 @@
         <entry id="187"/>
         <entry id="188"/>
         <entry id="189"/>
+        <entry id="190"/>
+        <entry id="191"/>
+        <entry id="192"/>
+        <entry id="193"/>
+        <entry id="194"/>
+        <entry id="195"/>
+        <entry id="196"/>
+        <entry id="197"/>
+        <entry id="198"/>
+        <entry id="199"/>
+        <entry id="200"/>
+        <entry id="201"/>
+        <entry id="202"/>
+        <entry id="203"/>
+        <entry id="204"/>
       </container>
     </container>
     <container>
@@ -3853,10 +4174,10 @@
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
-      <entry id="170">
+      <entry id="186">
         <translation id="1"/>
       </entry>
-      <entry id="188">
+      <entry id="203">
         <translation id="1"/>
       </entry>
       <container>
@@ -3953,6 +4274,15 @@
           <translation id="1"/>
         </entry>
         <entry id="111">
+          <translation id="1"/>
+        </entry>
+        <entry id="127">
+          <translation id="1"/>
+        </entry>
+        <entry id="132">
+          <translation id="1"/>
+        </entry>
+        <entry id="134">
           <translation id="1"/>
         </entry>
       </container>
@@ -4058,6 +4388,15 @@
         <entry id="108">
           <translation id="1"/>
         </entry>
+        <entry id="125">
+          <translation id="1"/>
+        </entry>
+        <entry id="129">
+          <translation id="1"/>
+        </entry>
+        <entry id="130">
+          <translation id="1"/>
+        </entry>
       </container>
       <container>
         <name>noun (m,pl)</name>
@@ -4077,6 +4416,12 @@
         <entry id="112">
           <translation id="1"/>
         </entry>
+        <entry id="128">
+          <translation id="1"/>
+        </entry>
+        <entry id="133">
+          <translation id="1"/>
+        </entry>
       </container>
       <container>
         <name>noun (f,pl)</name>
@@ -4087,21 +4432,30 @@
         <entry id="109">
           <translation id="1"/>
         </entry>
+        <entry id="126">
+          <translation id="1"/>
+        </entry>
+        <entry id="121">
+          <translation id="1"/>
+        </entry>
+        <entry id="131">
+          <translation id="1"/>
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
         <specialwordtype>noun/female</specialwordtype>
-        <entry id="176">
+        <entry id="191">
           <translation id="1"/>
         </entry>
       </container>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
-        <entry id="137">
+        <entry id="153">
           <translation id="1"/>
         </entry>
-        <entry id="138">
+        <entry id="154">
           <translation id="1"/>
         </entry>
       </container>
@@ -4155,6 +4509,18 @@
         <translation id="1"/>
         <translation id="2"/>
       </entry>
+      <entry id="122">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
+      <entry id="123">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
+      <entry id="124">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
       <container>
         <name>Verb</name>
         <specialwordtype>verb</specialwordtype>
@@ -4163,10 +4529,10 @@
     <container>
       <name>Adjective</name>
       <specialwordtype>adjective</specialwordtype>
-      <entry id="162">
+      <entry id="178">
         <translation id="1"/>
       </entry>
-      <entry id="165">
+      <entry id="181">
         <translation id="1"/>
       </entry>
       <container>
@@ -4200,6 +4566,9 @@
         <translation id="1"/>
       </entry>
       <entry id="113">
+        <translation id="1"/>
+      </entry>
+      <entry id="136">
         <translation id="1"/>
       </entry>
     </container>
@@ -4272,6 +4641,9 @@
         <translation id="1"/>
       </entry>
       <entry id="27">
+        <translation id="1"/>
+      </entry>
+      <entry id="135">
         <translation id="1"/>
       </entry>
     </container>
