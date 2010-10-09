@@ -115,10 +115,10 @@
       <translation id="0">
         <text>student (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:08</date>
+          <date>2010-10-09T18:07:49</date>
         </grade>
       </translation>
       <translation id="1">
@@ -139,10 +139,10 @@
       <translation id="0">
         <text>student (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:46</date>
+          <date>2010-10-09T18:07:44</date>
         </grade>
       </translation>
       <translation id="1">
@@ -163,10 +163,10 @@
       <translation id="0">
         <text>clerk (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:28</date>
+          <date>2010-10-09T18:04:15</date>
         </grade>
       </translation>
       <translation id="1">
@@ -187,10 +187,10 @@
       <translation id="0">
         <text>clerk (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:33:11</date>
+          <date>2010-10-09T18:04:38</date>
         </grade>
       </translation>
       <translation id="1">
@@ -211,10 +211,10 @@
       <translation id="0">
         <text>architect (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:23</date>
+          <date>2010-10-09T18:05:01</date>
         </grade>
       </translation>
       <translation id="1">
@@ -235,10 +235,10 @@
       <translation id="0">
         <text>architect (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:38:58</date>
+          <date>2010-10-09T18:05:08</date>
         </grade>
       </translation>
       <translation id="1">
@@ -259,10 +259,10 @@
       <translation id="0">
         <text>psychologist (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:37:54</date>
+          <date>2010-10-09T18:05:29</date>
         </grade>
       </translation>
       <translation id="1">
@@ -283,10 +283,10 @@
       <translation id="0">
         <text>psychologist (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>1</errorcount>
-          <date>2010-09-25T19:34:03</date>
+          <date>2010-10-09T18:06:11</date>
         </grade>
       </translation>
       <translation id="1">
@@ -307,10 +307,10 @@
       <translation id="0">
         <text>I</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:32</date>
+          <date>2010-10-09T18:04:26</date>
         </grade>
       </translation>
       <translation id="1">
@@ -331,9 +331,9 @@
         <text>you (m)</text>
         <grade>
           <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2010-09-25T19:34:46</date>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2010-10-09T18:04:49</date>
         </grade>
       </translation>
       <translation id="1">
@@ -354,10 +354,10 @@
       <translation id="0">
         <text>you (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:14</date>
+          <date>2010-10-09T18:03:47</date>
         </grade>
       </translation>
       <translation id="1">
@@ -378,10 +378,10 @@
       <translation id="0">
         <text>he</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:13</date>
+          <date>2010-10-09T18:02:33</date>
         </grade>
       </translation>
       <translation id="1">
@@ -401,10 +401,10 @@
       <translation id="0">
         <text>she</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:37:18</date>
+          <date>2010-10-09T18:04:41</date>
         </grade>
       </translation>
       <translation id="1">
@@ -424,10 +424,10 @@
       <translation id="0">
         <text>yes</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:33:50</date>
+          <date>2010-10-09T18:07:17</date>
         </grade>
       </translation>
       <translation id="1">
@@ -447,10 +447,10 @@
       <translation id="0">
         <text>who</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:03</date>
+          <date>2010-10-09T18:03:50</date>
         </grade>
       </translation>
       <translation id="1">
@@ -470,10 +470,10 @@
       <translation id="0">
         <text>no</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:52</date>
+          <date>2010-10-09T18:01:48</date>
         </grade>
       </translation>
       <translation id="1">
@@ -493,10 +493,10 @@
       <translation id="0">
         <text>mister</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:34:06</date>
+          <date>2010-10-09T18:05:12</date>
         </grade>
       </translation>
       <translation id="1">
@@ -517,10 +517,10 @@
       <translation id="0">
         <text>miss</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:38:39</date>
+          <date>2010-10-09T18:03:57</date>
         </grade>
       </translation>
       <translation id="1">
@@ -541,10 +541,10 @@
       <translation id="0">
         <text>this (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:34</date>
+          <date>2010-10-09T18:06:57</date>
         </grade>
       </translation>
       <translation id="1">
@@ -565,10 +565,10 @@
       <translation id="0">
         <text>this (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:38:43</date>
+          <date>2010-10-09T18:07:24</date>
         </grade>
       </translation>
       <translation id="1">
@@ -589,10 +589,10 @@
       <translation id="0">
         <text>physicist (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:38:08</date>
+          <date>2010-10-09T18:02:56</date>
         </grade>
       </translation>
       <translation id="1">
@@ -613,10 +613,10 @@
       <translation id="0">
         <text>physicist (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:23</date>
+          <date>2010-10-09T18:07:05</date>
         </grade>
       </translation>
       <translation id="1">
@@ -637,10 +637,10 @@
       <translation id="0">
         <text>technician (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:42</date>
+          <date>2010-10-09T18:06:22</date>
         </grade>
       </translation>
       <translation id="1">
@@ -661,10 +661,10 @@
       <translation id="0">
         <text>technician (f)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>1</errorcount>
-          <date>2010-09-25T19:37:09</date>
+          <date>2010-10-09T18:04:08</date>
         </grade>
       </translation>
       <translation id="1">
@@ -685,10 +685,10 @@
       <translation id="0">
         <text>peace</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:34:31</date>
+          <date>2010-10-09T18:04:45</date>
         </grade>
       </translation>
       <translation id="1">
@@ -709,10 +709,10 @@
       <translation id="0">
         <text>how are you</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:01</date>
+          <date>2010-10-09T18:04:20</date>
         </grade>
       </translation>
       <translation id="1">
@@ -732,10 +732,10 @@
       <translation id="0">
         <text>what</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:33:53</date>
+          <date>2010-10-09T18:05:50</date>
         </grade>
       </translation>
       <translation id="1">
@@ -755,10 +755,10 @@
       <translation id="0">
         <text>thanks</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:37:22</date>
+          <date>2010-10-09T18:06:03</date>
         </grade>
       </translation>
       <translation id="1">
@@ -778,10 +778,10 @@
       <translation id="0">
         <text>bad (m)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:21</date>
+          <date>2010-10-09T18:05:59</date>
         </grade>
       </translation>
       <translation id="1">
@@ -802,10 +802,10 @@
       <translation id="0">
         <text>now</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:37:30</date>
+          <date>2010-10-09T18:03:02</date>
         </grade>
       </translation>
       <translation id="1">
@@ -825,10 +825,10 @@
       <translation id="0">
         <text>also</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:49</date>
+          <date>2010-10-09T18:05:53</date>
         </grade>
       </translation>
       <translation id="1">
@@ -848,10 +848,10 @@
       <translation id="0">
         <text>in</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:37:14</date>
+          <date>2010-10-09T18:06:15</date>
         </grade>
         <comment>(on)</comment>
       </translation>
@@ -872,10 +872,10 @@
       <translation id="0">
         <text>and</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>1</errorcount>
-          <date>2010-09-25T19:33:55</date>
+          <date>2010-10-09T18:05:33</date>
         </grade>
       </translation>
       <translation id="1">
@@ -895,10 +895,10 @@
       <translation id="0">
         <text>there</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:02</date>
+          <date>2010-10-09T18:03:10</date>
         </grade>
       </translation>
       <translation id="1">
@@ -918,10 +918,10 @@
       <translation id="0">
         <text>where</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:17</date>
+          <date>2010-10-09T18:03:13</date>
         </grade>
       </translation>
       <translation id="1">
@@ -941,10 +941,10 @@
       <translation id="0">
         <text>Hebrew</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:38</date>
+          <date>2010-10-09T18:07:35</date>
         </grade>
       </translation>
       <translation id="1">
@@ -965,10 +965,10 @@
       <translation id="0">
         <text>office</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:32:59</date>
+          <date>2010-10-09T18:05:39</date>
         </grade>
       </translation>
       <translation id="1">
@@ -989,10 +989,10 @@
       <translation id="0">
         <text>English</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:38:16</date>
+          <date>2010-10-09T18:03:24</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1013,10 +1013,10 @@
       <translation id="0">
         <text>French</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:48</date>
+          <date>2010-10-09T18:07:28</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1037,10 +1037,10 @@
       <translation id="0">
         <text>Russian</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:35:27</date>
+          <date>2010-10-09T18:03:29</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1061,10 +1061,10 @@
       <translation id="0">
         <text>Italian</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:34:38</date>
+          <date>2010-10-09T18:06:45</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1085,10 +1085,10 @@
       <translation id="0">
         <text>Swedish</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:58</date>
+          <date>2010-10-09T18:04:02</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1109,10 +1109,10 @@
       <translation id="0">
         <text>Danish</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:34:55</date>
+          <date>2010-10-09T18:03:38</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1134,9 +1134,9 @@
         <text>Arabic</text>
         <grade>
           <currentgrade>1</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2010-09-25T19:37:59</date>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2010-10-09T18:04:30</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1158,9 +1158,9 @@
         <text>Japanese</text>
         <grade>
           <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2010-09-25T19:36:19</date>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2010-10-09T18:05:47</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1181,10 +1181,10 @@
       <translation id="0">
         <text>German</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:39:28</date>
+          <date>2010-10-09T18:06:53</date>
         </grade>
       </translation>
       <translation id="1">
@@ -1205,10 +1205,10 @@
       <translation id="0">
         <text>university</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2010-09-25T19:37:41</date>
+          <date>2010-10-09T18:07:14</date>
         </grade>
       </translation>
       <translation id="1">
@@ -3102,6 +3102,52 @@
     </entry>
     <entry id="137">
       <translation id="0">
+        <text>to where</text>
+        <comment>[place]</comment>
+      </translation>
+      <translation id="1">
+        <text>לאן</text>
+      </translation>
+      <translation id="2">
+        <text>לְאָן</text>
+      </translation>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>pleasure</text>
+        <comment>(conversation)</comment>
+      </translation>
+      <translation id="1">
+        <text>נעים מאוד</text>
+      </translation>
+      <translation id="2">
+        <text>נַעִים מֵאוֹד</text>
+      </translation>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>Jerusalem</text>
+      </translation>
+      <translation id="1">
+        <text>ירושלים</text>
+      </translation>
+      <translation id="2">
+        <text>יְרוּשָׁלַים</text>
+      </translation>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>Sinai</text>
+      </translation>
+      <translation id="1">
+        <text>סיני</text>
+      </translation>
+      <translation id="2">
+        <text>סִינַי</text>
+      </translation>
+    </entry>
+    <entry id="141">
+      <translation id="0">
         <text>when</text>
       </translation>
       <translation id="1">
@@ -3111,7 +3157,7 @@
         <text>מָתַי</text>
       </translation>
     </entry>
-    <entry id="138">
+    <entry id="142">
       <translation id="0">
         <text>why</text>
       </translation>
@@ -3122,7 +3168,7 @@
         <text>לָמָה</text>
       </translation>
     </entry>
-    <entry id="139">
+    <entry id="143">
       <translation id="0">
         <text>how much</text>
       </translation>
@@ -3133,7 +3179,7 @@
         <text>כַּמָה</text>
       </translation>
     </entry>
-    <entry id="140">
+    <entry id="144">
       <translation id="0">
         <text>how</text>
       </translation>
@@ -3144,7 +3190,7 @@
         <text>אֵיךְ</text>
       </translation>
     </entry>
-    <entry id="141">
+    <entry id="145">
       <translation id="0">
         <text>Australia</text>
       </translation>
@@ -3155,7 +3201,7 @@
         <text>אוֹסְטְרַלְיָה</text>
       </translation>
     </entry>
-    <entry id="142">
+    <entry id="146">
       <translation id="0">
         <text>English</text>
       </translation>
@@ -3166,7 +3212,7 @@
         <text>אַנְגְלִת</text>
       </translation>
     </entry>
-    <entry id="143">
+    <entry id="147">
       <translation id="0">
         <text>Latin America</text>
       </translation>
@@ -3177,7 +3223,7 @@
         <text>אֲמֶרִיקָה הַלַטִינִית</text>
       </translation>
     </entry>
-    <entry id="144">
+    <entry id="148">
       <translation id="0">
         <text>American</text>
       </translation>
@@ -3188,7 +3234,7 @@
         <text>אֲמֶרִיקָנִי</text>
       </translation>
     </entry>
-    <entry id="145">
+    <entry id="149">
       <translation id="0">
         <text>England</text>
       </translation>
@@ -3199,7 +3245,7 @@
         <text>אַנְגְלִיָה</text>
       </translation>
     </entry>
-    <entry id="146">
+    <entry id="150">
       <translation id="0">
         <text>America</text>
       </translation>
@@ -3210,7 +3256,7 @@
         <text>אֲמֶרִיקָה</text>
       </translation>
     </entry>
-    <entry id="147">
+    <entry id="151">
       <translation id="0">
         <text>farmer</text>
       </translation>
@@ -3221,7 +3267,7 @@
         <text>אִיכָּר</text>
       </translation>
     </entry>
-    <entry id="148">
+    <entry id="152">
       <translation id="0">
         <text>numbers</text>
       </translation>
@@ -3232,7 +3278,7 @@
         <text>מִסְפָּרִים</text>
       </translation>
     </entry>
-    <entry id="149">
+    <entry id="153">
       <translation id="0">
         <text>bus</text>
       </translation>
@@ -3250,7 +3296,7 @@
         <text>אוֹטוֹבּוּס</text>
       </translation>
     </entry>
-    <entry id="150">
+    <entry id="154">
       <translation id="0">
         <text>vending machine</text>
       </translation>
@@ -3267,7 +3313,7 @@
         <text>אוֹטוֹמַט</text>
       </translation>
     </entry>
-    <entry id="151">
+    <entry id="155">
       <translation id="0">
         <text>autograph</text>
       </translation>
@@ -3278,7 +3324,7 @@
         <text>אוֹטוֹגְרַף</text>
       </translation>
     </entry>
-    <entry id="152">
+    <entry id="156">
       <translation id="0">
         <text>energy</text>
       </translation>
@@ -3289,7 +3335,7 @@
         <text>אֶנֶרְגְיָה</text>
       </translation>
     </entry>
-    <entry id="153">
+    <entry id="157">
       <translation id="0">
         <text>wave</text>
       </translation>
@@ -3300,7 +3346,7 @@
         <text>גַל</text>
       </translation>
     </entry>
-    <entry id="154">
+    <entry id="158">
       <translation id="0">
         <text>wheel</text>
       </translation>
@@ -3317,7 +3363,7 @@
         <text>גַלְגַל</text>
       </translation>
     </entry>
-    <entry id="155">
+    <entry id="159">
       <translation id="0">
         <text>mail</text>
       </translation>
@@ -3328,7 +3374,7 @@
         <text>דוֹאַר</text>
       </translation>
     </entry>
-    <entry id="156">
+    <entry id="160">
       <translation id="0">
         <text>lake</text>
       </translation>
@@ -3339,7 +3385,7 @@
         <text>אֲגָם</text>
       </translation>
     </entry>
-    <entry id="157">
+    <entry id="161">
       <translation id="0">
         <text>office</text>
       </translation>
@@ -3351,7 +3397,7 @@
         <text>חֲדַר עֲבוֹדָה</text>
       </translation>
     </entry>
-    <entry id="158">
+    <entry id="162">
       <translation id="0">
         <text>kitchen</text>
       </translation>
@@ -3362,7 +3408,7 @@
         <text>מִטְבָּה</text>
       </translation>
     </entry>
-    <entry id="159">
+    <entry id="163">
       <translation id="0">
         <text>dining room</text>
       </translation>
@@ -3373,7 +3419,7 @@
         <text>חֲדַר אֹכֶל</text>
       </translation>
     </entry>
-    <entry id="160">
+    <entry id="164">
       <translation id="0">
         <text>bedroom</text>
       </translation>
@@ -3384,7 +3430,7 @@
         <text>חֲדַר שֵׁינָה</text>
       </translation>
     </entry>
-    <entry id="161">
+    <entry id="165">
       <translation id="0">
         <text>garage</text>
       </translation>
@@ -3395,7 +3441,7 @@
         <text>מוּסָךְ</text>
       </translation>
     </entry>
-    <entry id="162">
+    <entry id="166">
       <translation id="0">
         <text>toilet</text>
       </translation>
@@ -3406,7 +3452,7 @@
         <text>שֵׁירוּתִים</text>
       </translation>
     </entry>
-    <entry id="163">
+    <entry id="167">
       <translation id="0">
         <text>picture</text>
       </translation>
@@ -3417,7 +3463,7 @@
         <text>תְמוּנָה</text>
       </translation>
     </entry>
-    <entry id="164">
+    <entry id="168">
       <translation id="0">
         <text>bathroom</text>
       </translation>
@@ -3428,7 +3474,7 @@
         <text>חֲדַר אַמְבַּטְיָה</text>
       </translation>
     </entry>
-    <entry id="165">
+    <entry id="169">
       <translation id="0">
         <text>living room</text>
       </translation>
@@ -3439,7 +3485,7 @@
         <text>סָלוֹן</text>
       </translation>
     </entry>
-    <entry id="166">
+    <entry id="170">
       <translation id="0">
         <text>window</text>
       </translation>
@@ -3448,7 +3494,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="167">
+    <entry id="171">
       <translation id="0">
         <text>sofa</text>
       </translation>
@@ -3459,7 +3505,7 @@
         <text>סָפָּה</text>
       </translation>
     </entry>
-    <entry id="168">
+    <entry id="172">
       <translation id="0">
         <text>carpet</text>
       </translation>
@@ -3470,7 +3516,7 @@
         <text>שָׁטִיחַ</text>
       </translation>
     </entry>
-    <entry id="169">
+    <entry id="173">
       <translation id="0">
         <text>basement</text>
       </translation>
@@ -3481,7 +3527,7 @@
         <text>מַרְתֵףּ</text>
       </translation>
     </entry>
-    <entry id="170">
+    <entry id="174">
       <translation id="0">
         <text>mailbox</text>
       </translation>
@@ -3492,7 +3538,7 @@
         <text>תֵיבַת דוֹאַר</text>
       </translation>
     </entry>
-    <entry id="171">
+    <entry id="175">
       <translation id="0">
         <text>red</text>
       </translation>
@@ -3503,7 +3549,7 @@
         <text>אָדוֹם</text>
       </translation>
     </entry>
-    <entry id="172">
+    <entry id="176">
       <translation id="0">
         <text>orange</text>
       </translation>
@@ -3514,7 +3560,7 @@
         <text>כָּתוֹם</text>
       </translation>
     </entry>
-    <entry id="173">
+    <entry id="177">
       <translation id="0">
         <text>blue</text>
       </translation>
@@ -3525,7 +3571,7 @@
         <text>כָּחוֹל</text>
       </translation>
     </entry>
-    <entry id="174">
+    <entry id="178">
       <translation id="0">
         <text>yellow</text>
       </translation>
@@ -3536,7 +3582,7 @@
         <text>צָהוֹב</text>
       </translation>
     </entry>
-    <entry id="175">
+    <entry id="179">
       <translation id="0">
         <text>green</text>
       </translation>
@@ -3547,7 +3593,7 @@
         <text>יָרוֹק</text>
       </translation>
     </entry>
-    <entry id="176">
+    <entry id="180">
       <translation id="0">
         <text>white</text>
       </translation>
@@ -3558,7 +3604,7 @@
         <text>לָבָן</text>
       </translation>
     </entry>
-    <entry id="177">
+    <entry id="181">
       <translation id="0">
         <text>brown</text>
       </translation>
@@ -3569,7 +3615,7 @@
         <text>חוּם</text>
       </translation>
     </entry>
-    <entry id="178">
+    <entry id="182">
       <translation id="0">
         <text>black</text>
       </translation>
@@ -3580,7 +3626,7 @@
         <text>שָׁחוֹר</text>
       </translation>
     </entry>
-    <entry id="179">
+    <entry id="183">
       <translation id="0">
         <text>colorful</text>
       </translation>
@@ -3591,7 +3637,7 @@
         <text>צִבְעוֹנִי</text>
       </translation>
     </entry>
-    <entry id="180">
+    <entry id="184">
       <translation id="0">
         <text>gray</text>
       </translation>
@@ -3608,7 +3654,7 @@
         <text>אָפוֹר</text>
       </translation>
     </entry>
-    <entry id="181">
+    <entry id="185">
       <translation id="0">
         <text>pink</text>
       </translation>
@@ -3619,7 +3665,7 @@
         <text>וָרוֹד</text>
       </translation>
     </entry>
-    <entry id="182">
+    <entry id="186">
       <translation id="0">
         <text>alcohol</text>
       </translation>
@@ -3630,7 +3676,7 @@
         <text>אַלְכּוֹהוֹל</text>
       </translation>
     </entry>
-    <entry id="183">
+    <entry id="187">
       <translation id="0">
         <text>elegant</text>
       </translation>
@@ -3641,7 +3687,7 @@
         <text>אֶלֶגַנְטִי</text>
       </translation>
     </entry>
-    <entry id="184">
+    <entry id="188">
       <translation id="0">
         <text>good</text>
       </translation>
@@ -3652,7 +3698,7 @@
         <text>טוֹב</text>
       </translation>
     </entry>
-    <entry id="185">
+    <entry id="189">
       <translation id="0">
         <text>artist</text>
       </translation>
@@ -3663,24 +3709,7 @@
         <text>אֳמָן</text>
       </translation>
     </entry>
-    <entry id="186">
-      <translation id="0">
-        <text>h</text>
-      </translation>
-      <translation id="1">
-        <text>אנטיביוטיקה</text>
-        <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>1</errorcount>
-          <date>2010-09-23T12:21:03</date>
-        </grade>
-      </translation>
-      <translation id="2">
-        <text>אַנְטִיבְּיוֹטִיקָה</text>
-      </translation>
-    </entry>
-    <entry id="187">
+    <entry id="190">
       <translation id="0">
         <text>ambulance</text>
       </translation>
@@ -3691,7 +3720,7 @@
         <text>אַמְבּוּלַנְס</text>
       </translation>
     </entry>
-    <entry id="188">
+    <entry id="191">
       <translation id="0">
         <text>infection</text>
       </translation>
@@ -3702,7 +3731,7 @@
         <text>אִינְפֶקְצְיָה</text>
       </translation>
     </entry>
-    <entry id="189">
+    <entry id="192">
       <translation id="0">
         <text>street</text>
       </translation>
@@ -3719,7 +3748,7 @@
         <text>רְחוֹב</text>
       </translation>
     </entry>
-    <entry id="190">
+    <entry id="193">
       <translation id="0">
         <text>hotel</text>
       </translation>
@@ -3736,7 +3765,7 @@
         <text>מָלוֹן</text>
       </translation>
     </entry>
-    <entry id="191">
+    <entry id="194">
       <translation id="0">
         <text>opera</text>
       </translation>
@@ -3753,7 +3782,7 @@
         <text>אוֹפֶּרָה</text>
       </translation>
     </entry>
-    <entry id="192">
+    <entry id="195">
       <translation id="0">
         <text>bank</text>
       </translation>
@@ -3764,7 +3793,7 @@
         <text>בַּנְק</text>
       </translation>
     </entry>
-    <entry id="193">
+    <entry id="196">
       <translation id="0">
         <text>cafe</text>
       </translation>
@@ -3775,7 +3804,7 @@
         <text>בַּית קָפֶה</text>
       </translation>
     </entry>
-    <entry id="194">
+    <entry id="197">
       <translation id="0">
         <text>motorcycle</text>
       </translation>
@@ -3792,7 +3821,7 @@
         <text>אוֹפַנוֹעַ</text>
       </translation>
     </entry>
-    <entry id="195">
+    <entry id="198">
       <translation id="0">
         <text>car</text>
       </translation>
@@ -3809,7 +3838,7 @@
         <text>מְכוֹנִית</text>
       </translation>
     </entry>
-    <entry id="196">
+    <entry id="199">
       <translation id="0">
         <text>father</text>
       </translation>
@@ -3820,7 +3849,7 @@
         <text>אַבָּא</text>
       </translation>
     </entry>
-    <entry id="197">
+    <entry id="200">
       <translation id="0">
         <text>grandfather</text>
       </translation>
@@ -3831,7 +3860,7 @@
         <text>שַבָּא</text>
       </translation>
     </entry>
-    <entry id="198">
+    <entry id="201">
       <translation id="0">
         <text>uncle</text>
       </translation>
@@ -3842,7 +3871,7 @@
         <text>דוֹד</text>
       </translation>
     </entry>
-    <entry id="199">
+    <entry id="202">
       <translation id="0">
         <text>aunt</text>
       </translation>
@@ -3853,7 +3882,7 @@
         <text>דוֹדָה</text>
       </translation>
     </entry>
-    <entry id="200">
+    <entry id="203">
       <translation id="0">
         <text>bicycle</text>
       </translation>
@@ -3864,7 +3893,7 @@
         <text>אוֹפַנַיִם</text>
       </translation>
     </entry>
-    <entry id="201">
+    <entry id="204">
       <translation id="0">
         <text>book</text>
       </translation>
@@ -3875,7 +3904,7 @@
         <text>סֵפֶר</text>
       </translation>
     </entry>
-    <entry id="202">
+    <entry id="205">
       <translation id="0">
         <text>please</text>
       </translation>
@@ -3892,7 +3921,7 @@
         <text>בְּבַקָשָׁה</text>
       </translation>
     </entry>
-    <entry id="203">
+    <entry id="206">
       <translation id="0">
         <text>Shabbat</text>
       </translation>
@@ -3903,7 +3932,7 @@
         <text>שַׁבַּת</text>
       </translation>
     </entry>
-    <entry id="204">
+    <entry id="207">
       <translation id="0">
         <text>morning</text>
       </translation>
@@ -3979,7 +4008,6 @@
       <name>Class B</name>
       <container>
         <name>Lesson B.2</name>
-        <inpractice>true</inpractice>
         <entry id="47"/>
         <entry id="48"/>
         <entry id="49"/>
@@ -3990,7 +4018,6 @@
       </container>
       <container>
         <name>Lesson B.3</name>
-        <inpractice>true</inpractice>
         <entry id="54"/>
         <entry id="55"/>
         <entry id="56"/>
@@ -4009,7 +4036,6 @@
       </container>
       <container>
         <name>Lesson B.4</name>
-        <inpractice>true</inpractice>
         <entry id="69"/>
         <entry id="70"/>
         <entry id="71"/>
@@ -4032,7 +4058,6 @@
       </container>
       <container>
         <name>Lesson B.5</name>
-        <inpractice>true</inpractice>
         <entry id="88"/>
         <entry id="89"/>
         <entry id="90"/>
@@ -4047,7 +4072,6 @@
       </container>
       <container>
         <name>Lesson B.6</name>
-        <inpractice>true</inpractice>
         <entry id="99"/>
         <entry id="100"/>
         <entry id="101"/>
@@ -4073,7 +4097,6 @@
       </container>
       <container>
         <name>Lesson B.7</name>
-        <inpractice>true</inpractice>
         <entry id="121"/>
         <entry id="122"/>
         <entry id="123"/>
@@ -4090,16 +4113,16 @@
         <entry id="134"/>
         <entry id="135"/>
         <entry id="136"/>
+        <entry id="137"/>
+        <entry id="138"/>
+        <entry id="139"/>
+        <entry id="140"/>
       </container>
     </container>
     <container>
       <name>Class C</name>
       <container>
         <name>Lesson C.ToDo</name>
-        <entry id="137"/>
-        <entry id="138"/>
-        <entry id="139"/>
-        <entry id="140"/>
         <entry id="141"/>
         <entry id="142"/>
         <entry id="143"/>
@@ -4164,6 +4187,9 @@
         <entry id="202"/>
         <entry id="203"/>
         <entry id="204"/>
+        <entry id="205"/>
+        <entry id="206"/>
+        <entry id="207"/>
       </container>
     </container>
     <container>
@@ -4174,10 +4200,7 @@
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
-      <entry id="186">
-        <translation id="1"/>
-      </entry>
-      <entry id="203">
+      <entry id="206">
         <translation id="1"/>
       </entry>
       <container>
@@ -4397,6 +4420,9 @@
         <entry id="130">
           <translation id="1"/>
         </entry>
+        <entry id="194">
+          <translation id="1"/>
+        </entry>
       </container>
       <container>
         <name>noun (m,pl)</name>
@@ -4445,17 +4471,15 @@
       <container>
         <name>Feminine</name>
         <specialwordtype>noun/female</specialwordtype>
-        <entry id="191">
-          <translation id="1"/>
-        </entry>
+        <entry id="194"/>
       </container>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
-        <entry id="153">
+        <entry id="157">
           <translation id="1"/>
         </entry>
-        <entry id="154">
+        <entry id="158">
           <translation id="1"/>
         </entry>
       </container>
@@ -4529,10 +4553,10 @@
     <container>
       <name>Adjective</name>
       <specialwordtype>adjective</specialwordtype>
-      <entry id="178">
+      <entry id="182">
         <translation id="1"/>
       </entry>
-      <entry id="181">
+      <entry id="185">
         <translation id="1"/>
       </entry>
       <container>
@@ -4619,6 +4643,9 @@
       <entry id="52">
         <translation id="1"/>
       </entry>
+      <entry id="137">
+        <translation id="1"/>
+      </entry>
     </container>
     <container>
       <name>Demonstrative</name>
@@ -4673,6 +4700,7 @@
       <entry id="114">
         <translation id="1"/>
       </entry>
+      <entry id="137"/>
     </container>
     <container>
       <name></name>
