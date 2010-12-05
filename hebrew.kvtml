@@ -4858,11 +4858,6 @@
       </translation>
     </entry>
     <entry id="164">
-      <translation id="0"/>
-      <translation id="1"/>
-      <translation id="2"/>
-    </entry>
-    <entry id="165">
       <translation id="0">
         <text>cafeteria</text>
         <grade>
@@ -4885,7 +4880,7 @@
         <text>קָפֶטֶרְיָה</text>
       </translation>
     </entry>
-    <entry id="166">
+    <entry id="165">
       <translation id="0">
         <text>spring</text>
         <grade>
@@ -4908,7 +4903,7 @@
         <text>אָבִיב</text>
       </translation>
     </entry>
-    <entry id="167">
+    <entry id="166">
       <translation id="0">
         <text>at home</text>
         <grade>
@@ -4931,7 +4926,7 @@
         <text>בַּבַּית</text>
       </translation>
     </entry>
-    <entry id="168">
+    <entry id="167">
       <translation id="0">
         <text>internet</text>
         <grade>
@@ -4954,7 +4949,7 @@
         <text>אִינְטֶרְנֶט</text>
       </translation>
     </entry>
-    <entry id="169">
+    <entry id="168">
       <translation id="0">
         <text>fax</text>
         <grade>
@@ -4977,7 +4972,7 @@
         <text>פַקְס</text>
       </translation>
     </entry>
-    <entry id="170">
+    <entry id="169">
       <translation id="0">
         <text>museum</text>
         <grade>
@@ -5000,7 +4995,7 @@
         <text>מוּזֵאוֹן</text>
       </translation>
     </entry>
-    <entry id="171">
+    <entry id="170">
       <translation id="0">
         <text>supermarket</text>
         <grade>
@@ -5023,7 +5018,7 @@
         <text>סוּפֶּרְמַרְקֶט</text>
       </translation>
     </entry>
-    <entry id="172">
+    <entry id="171">
       <translation id="0">
         <text>winter</text>
         <grade>
@@ -5046,7 +5041,7 @@
         <text>חֹרֶף</text>
       </translation>
     </entry>
-    <entry id="173">
+    <entry id="172">
       <translation id="0">
         <text>autumn</text>
         <grade>
@@ -5069,7 +5064,7 @@
         <text>סְתָו</text>
       </translation>
     </entry>
-    <entry id="174">
+    <entry id="173">
       <translation id="0">
         <text>summer</text>
         <grade>
@@ -5092,7 +5087,7 @@
         <text>קַיִץ</text>
       </translation>
     </entry>
-    <entry id="175">
+    <entry id="174">
       <translation id="0">
         <text>here</text>
         <grade>
@@ -5115,7 +5110,7 @@
         <text>פֹּה</text>
       </translation>
     </entry>
-    <entry id="176">
+    <entry id="175">
       <translation id="0">
         <text>more</text>
         <grade>
@@ -5138,7 +5133,7 @@
         <text>עוֹד</text>
       </translation>
     </entry>
-    <entry id="177">
+    <entry id="176">
       <translation id="0">
         <text>hotel</text>
         <grade>
@@ -5161,7 +5156,7 @@
         <text>מָלוֹן</text>
       </translation>
     </entry>
-    <entry id="178">
+    <entry id="177">
       <translation id="0">
         <text>restaurants</text>
         <grade>
@@ -5185,7 +5180,7 @@
         <text>מִסְעָדָוֹת</text>
       </translation>
     </entry>
-    <entry id="179">
+    <entry id="178">
       <translation id="0">
         <text>restaurant</text>
         <grade>
@@ -5209,7 +5204,7 @@
         <text>מִסְעָדָה</text>
       </translation>
     </entry>
-    <entry id="180">
+    <entry id="179">
       <translation id="0">
         <text>there</text>
         <grade>
@@ -5232,7 +5227,7 @@
         <text>שַׁם</text>
       </translation>
     </entry>
-    <entry id="181">
+    <entry id="180">
       <translation id="0">
         <text>house</text>
         <grade>
@@ -5256,7 +5251,7 @@
         <text>בָּית</text>
       </translation>
     </entry>
-    <entry id="182">
+    <entry id="181">
       <translation id="0">
         <text>houses</text>
         <grade>
@@ -5280,7 +5275,7 @@
         <text>בָּתִים</text>
       </translation>
     </entry>
-    <entry id="183">
+    <entry id="182">
       <translation id="0">
         <text>when</text>
         <grade>
@@ -5303,7 +5298,7 @@
         <text>מָתַי</text>
       </translation>
     </entry>
-    <entry id="184">
+    <entry id="183">
       <translation id="0">
         <text>toilet</text>
         <grade>
@@ -5326,7 +5321,7 @@
         <text>שֵׁירוּתִים</text>
       </translation>
     </entry>
-    <entry id="185">
+    <entry id="184">
       <translation id="0">
         <text>gym</text>
         <grade>
@@ -5349,7 +5344,7 @@
         <text>מַכוֹן כֹּשֶׁר</text>
       </translation>
     </entry>
-    <entry id="186">
+    <entry id="185">
       <translation id="0">
         <text>tomorrow</text>
         <grade>
@@ -5372,7 +5367,7 @@
         <text>מָחָר</text>
       </translation>
     </entry>
-    <entry id="187">
+    <entry id="186">
       <translation id="0">
         <text>sand</text>
         <grade>
@@ -5395,7 +5390,7 @@
         <text>חוֹל</text>
       </translation>
     </entry>
-    <entry id="188">
+    <entry id="187">
       <translation id="0">
         <text>tree</text>
         <grade>
@@ -5418,7 +5413,7 @@
         <text>עֵץ</text>
       </translation>
     </entry>
-    <entry id="189">
+    <entry id="188">
       <translation id="0">
         <text>fish</text>
         <grade>
@@ -5441,7 +5436,7 @@
         <text>דָג</text>
       </translation>
     </entry>
-    <entry id="190">
+    <entry id="189">
       <translation id="0">
         <text>month</text>
         <grade>
@@ -5464,7 +5459,7 @@
         <text>חוֹדֶשׁ</text>
       </translation>
     </entry>
-    <entry id="191">
+    <entry id="190">
       <translation id="0">
         <text>january</text>
         <grade>
@@ -5487,7 +5482,7 @@
         <text>יָנוּאָר</text>
       </translation>
     </entry>
-    <entry id="192">
+    <entry id="191">
       <translation id="0">
         <text>february</text>
         <grade>
@@ -5510,7 +5505,7 @@
         <text>פֶבּרוּאָר</text>
       </translation>
     </entry>
-    <entry id="193">
+    <entry id="192">
       <translation id="0">
         <text>march</text>
         <grade>
@@ -5533,7 +5528,7 @@
         <text>מֶרְץ</text>
       </translation>
     </entry>
-    <entry id="194">
+    <entry id="193">
       <translation id="0">
         <text>april</text>
         <grade>
@@ -5556,7 +5551,7 @@
         <text>אַפְּרִיל</text>
       </translation>
     </entry>
-    <entry id="195">
+    <entry id="194">
       <translation id="0">
         <text>may</text>
         <grade>
@@ -5579,7 +5574,7 @@
         <text>מַאי</text>
       </translation>
     </entry>
-    <entry id="196">
+    <entry id="195">
       <translation id="0">
         <text>june</text>
         <grade>
@@ -5602,7 +5597,7 @@
         <text>יוּנִי</text>
       </translation>
     </entry>
-    <entry id="197">
+    <entry id="196">
       <translation id="0">
         <text>july</text>
         <grade>
@@ -5625,7 +5620,7 @@
         <text>יוּלִי</text>
       </translation>
     </entry>
-    <entry id="198">
+    <entry id="197">
       <translation id="0">
         <text>august</text>
         <grade>
@@ -5648,7 +5643,7 @@
         <text>אוֹגוּסְט</text>
       </translation>
     </entry>
-    <entry id="199">
+    <entry id="198">
       <translation id="0">
         <text>september</text>
         <grade>
@@ -5671,7 +5666,7 @@
         <text>סֶפְּטֶמְבֵּר</text>
       </translation>
     </entry>
-    <entry id="200">
+    <entry id="199">
       <translation id="0">
         <text>october</text>
         <grade>
@@ -5694,7 +5689,7 @@
         <text>אוֹקְטוֹבֵּר</text>
       </translation>
     </entry>
-    <entry id="201">
+    <entry id="200">
       <translation id="0">
         <text>november</text>
         <grade>
@@ -5717,7 +5712,7 @@
         <text>נוֹבֶמְבֵּר</text>
       </translation>
     </entry>
-    <entry id="202">
+    <entry id="201">
       <translation id="0">
         <text>december</text>
         <grade>
@@ -5740,12 +5735,7 @@
         <text>דֶצֶמְבֵּר</text>
       </translation>
     </entry>
-    <entry id="203">
-      <translation id="0"/>
-      <translation id="1"/>
-      <translation id="2"/>
-    </entry>
-    <entry id="204">
+    <entry id="202">
       <translation id="0">
         <text>ice cream</text>
         <grade>
@@ -5763,7 +5753,7 @@
         <text>גְלִידָה</text>
       </translation>
     </entry>
-    <entry id="205">
+    <entry id="203">
       <translation id="0">
         <text>shop</text>
         <grade>
@@ -5781,7 +5771,7 @@
         <text>חֲנוּת</text>
       </translation>
     </entry>
-    <entry id="206">
+    <entry id="204">
       <translation id="0">
         <text>shops</text>
         <grade>
@@ -5799,7 +5789,7 @@
         <text>חָנוּיוֹת</text>
       </translation>
     </entry>
-    <entry id="207">
+    <entry id="205">
       <translation id="0">
         <text>to drink</text>
         <grade>
@@ -5856,7 +5846,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="208">
+    <entry id="206">
       <translation id="0">
         <text>to run</text>
         <grade>
@@ -5913,7 +5903,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="209">
+    <entry id="207">
       <translation id="0">
         <text>to rise</text>
         <grade>
@@ -5970,7 +5960,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="210">
+    <entry id="208">
       <translation id="0">
         <text>morning</text>
         <grade>
@@ -5987,7 +5977,7 @@
         <text>בּוֹקֶר</text>
       </translation>
     </entry>
-    <entry id="211">
+    <entry id="209">
       <translation id="0">
         <text>good morning</text>
         <grade>
@@ -6004,7 +5994,7 @@
         <text>בְּוֹקֶר טוֹב</text>
       </translation>
     </entry>
-    <entry id="212">
+    <entry id="210">
       <translation id="0">
         <text>juice</text>
         <grade>
@@ -6022,7 +6012,7 @@
         <text>מִיץ</text>
       </translation>
     </entry>
-    <entry id="213">
+    <entry id="211">
       <translation id="0">
         <text>water</text>
         <grade>
@@ -6040,7 +6030,7 @@
         <text>מַיִם</text>
       </translation>
     </entry>
-    <entry id="214">
+    <entry id="212">
       <translation id="0">
         <text>bread</text>
         <grade>
@@ -6058,7 +6048,7 @@
         <text>לֶחֶם</text>
       </translation>
     </entry>
-    <entry id="215">
+    <entry id="213">
       <translation id="0">
         <text>office</text>
         <grade>
@@ -6076,7 +6066,7 @@
         <text>מִשְֹרָד</text>
       </translation>
     </entry>
-    <entry id="216">
+    <entry id="214">
       <translation id="0">
         <text>apartment</text>
         <grade>
@@ -6093,7 +6083,7 @@
         <text>דִירָה</text>
       </translation>
     </entry>
-    <entry id="217">
+    <entry id="215">
       <translation id="0">
         <text>market</text>
         <grade>
@@ -6110,7 +6100,7 @@
         <text>שׁוּק</text>
       </translation>
     </entry>
-    <entry id="218">
+    <entry id="216">
       <translation id="0">
         <text>cheese</text>
         <grade>
@@ -6127,7 +6117,7 @@
         <text>גְבִינָה</text>
       </translation>
     </entry>
-    <entry id="219">
+    <entry id="217">
       <translation id="0">
         <text>milk</text>
         <grade>
@@ -6144,7 +6134,7 @@
         <text>חָלָב</text>
       </translation>
     </entry>
-    <entry id="220">
+    <entry id="218">
       <translation id="0">
         <text>chicken meat</text>
         <grade>
@@ -6161,7 +6151,7 @@
         <text>עוֹף</text>
       </translation>
     </entry>
-    <entry id="221">
+    <entry id="219">
       <translation id="0">
         <text>sometimes</text>
         <grade>
@@ -6178,7 +6168,7 @@
         <text>לִפְעָמִים</text>
       </translation>
     </entry>
-    <entry id="222">
+    <entry id="220">
       <translation id="0">
         <text>every day</text>
         <grade>
@@ -6195,7 +6185,7 @@
         <text>כֹּל יוֹם</text>
       </translation>
     </entry>
-    <entry id="223">
+    <entry id="221">
       <translation id="0">
         <text>all day</text>
         <grade>
@@ -6212,7 +6202,7 @@
         <text>כֹּל הַיוֹם</text>
       </translation>
     </entry>
-    <entry id="224">
+    <entry id="222">
       <translation id="0">
         <text>evening</text>
         <grade>
@@ -6229,7 +6219,7 @@
         <text>עֶרֶב</text>
       </translation>
     </entry>
-    <entry id="225">
+    <entry id="223">
       <translation id="0">
         <text>night</text>
         <grade>
@@ -6246,7 +6236,7 @@
         <text>לַיְלָה</text>
       </translation>
     </entry>
-    <entry id="226">
+    <entry id="224">
       <translation id="0">
         <text>from till</text>
       </translation>
@@ -6255,7 +6245,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="227">
+    <entry id="225">
       <translation id="0">
         <text>to sleep</text>
         <grade>
@@ -6310,7 +6300,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="228">
+    <entry id="226">
       <translation id="0">
         <text>in the afternoon</text>
         <grade>
@@ -6327,7 +6317,7 @@
         <text>אֲחַרֵי הַצֹהֹרַיִם</text>
       </translation>
     </entry>
-    <entry id="229">
+    <entry id="227">
       <translation id="0">
         <text>noon</text>
         <grade>
@@ -6344,7 +6334,7 @@
         <text>צָהֲרַיִם</text>
       </translation>
     </entry>
-    <entry id="230">
+    <entry id="228">
       <translation id="0">
         <text>at noon</text>
         <grade>
@@ -6361,184 +6351,194 @@
         <text>בְּצֹהֹרַיִם</text>
       </translation>
     </entry>
-    <entry id="231">
+    <entry id="229">
       <translation id="0">
-        <text>clerk (m)</text>
+        <text>one</text>
       </translation>
       <translation id="1">
-        <text>פקיד</text>
-        <comment>(m)</comment>
+        <text>אחת</text>
       </translation>
       <translation id="2">
-        <text>פָּקִיד</text>
+        <text>אַחַת</text>
+      </translation>
+    </entry>
+    <entry id="230">
+      <translation id="0">
+        <text>two</text>
+      </translation>
+      <translation id="1">
+        <text>שתים</text>
+      </translation>
+      <translation id="2">
+        <text>שְׁתַיִם</text>
+      </translation>
+    </entry>
+    <entry id="231">
+      <translation id="0">
+        <text>three</text>
+      </translation>
+      <translation id="1">
+        <text>שלוש</text>
+      </translation>
+      <translation id="2">
+        <text>שָׁלוֹשׁ</text>
       </translation>
     </entry>
     <entry id="232">
       <translation id="0">
-        <text>clerk (f)</text>
+        <text>four</text>
       </translation>
       <translation id="1">
-        <text>פקידה</text>
-        <comment>(f)</comment>
+        <text>ארבע</text>
       </translation>
       <translation id="2">
-        <text>פְּקִידָה</text>
+        <text>אַרְבַּע</text>
       </translation>
     </entry>
     <entry id="233">
       <translation id="0">
-        <text>architect (m)</text>
+        <text>five</text>
       </translation>
       <translation id="1">
-        <text>ארכיטקט</text>
-        <comment>(m)</comment>
+        <text>חמש</text>
       </translation>
       <translation id="2">
-        <text>אַרְכִיטֶקְט</text>
+        <text>חָמֵשׁ</text>
       </translation>
     </entry>
     <entry id="234">
       <translation id="0">
-        <text>architect (f)</text>
+        <text>six</text>
       </translation>
       <translation id="1">
-        <text>ארכיטקטית</text>
-        <comment>(f)</comment>
+        <text>שש</text>
       </translation>
       <translation id="2">
-        <text>אַרְכִיטֶקְטִית</text>
+        <text>שֵׁשׁ</text>
       </translation>
     </entry>
     <entry id="235">
       <translation id="0">
-        <text>psychologist (m)</text>
+        <text>seven</text>
       </translation>
       <translation id="1">
-        <text>פסיכולוג</text>
-        <comment>(m)</comment>
+        <text>שבע</text>
       </translation>
       <translation id="2">
-        <text>פְּסִיכוֹלוֹג</text>
+        <text>שֶׁבַע</text>
       </translation>
     </entry>
     <entry id="236">
       <translation id="0">
-        <text>psychologist (f)</text>
+        <text>eight</text>
       </translation>
       <translation id="1">
-        <text>פסיכולוגית</text>
-        <comment>(f)</comment>
+        <text>שמונה</text>
       </translation>
       <translation id="2">
-        <text>פְּסיכוֹלוֹגִית</text>
+        <text>שְׁמוֹנֶה</text>
       </translation>
     </entry>
     <entry id="237">
       <translation id="0">
-        <text>mister</text>
+        <text>nine</text>
       </translation>
       <translation id="1">
-        <text>אדון</text>
-        <comment>(m)</comment>
+        <text>תשע</text>
       </translation>
       <translation id="2">
-        <text>אָדוֹן</text>
+        <text>תֵשַׁע</text>
       </translation>
     </entry>
     <entry id="238">
       <translation id="0">
-        <text>miss</text>
+        <text>zero</text>
       </translation>
       <translation id="1">
-        <text>גברת</text>
-        <comment>(f)</comment>
+        <text>אפס</text>
       </translation>
       <translation id="2">
-        <text>גְבֶרֶת</text>
+        <text>אֶפֶס</text>
       </translation>
     </entry>
     <entry id="239">
       <translation id="0">
-        <text>physicist (m)</text>
+        <text>ten</text>
       </translation>
       <translation id="1">
-        <text>פיזיקאי</text>
-        <comment>(m)</comment>
+        <text>עשר</text>
       </translation>
       <translation id="2">
-        <text>פִיזִיקַאי</text>
+        <text>עֶשֶׂר</text>
       </translation>
     </entry>
     <entry id="240">
       <translation id="0">
-        <text>physicist (f)</text>
+        <text>eleven</text>
       </translation>
       <translation id="1">
-        <text>פיזיקאית</text>
-        <comment>(f)</comment>
+        <text>אחת עשרה</text>
       </translation>
       <translation id="2">
-        <text>פִיזִיקָאִית</text>
+        <text>אַחַת עֶשְׂרֵה</text>
       </translation>
     </entry>
     <entry id="241">
       <translation id="0">
-        <text>technician (m)</text>
+        <text>twelve</text>
       </translation>
       <translation id="1">
-        <text>טכנאי</text>
-        <comment>(m)</comment>
+        <text>שתים עשרה</text>
       </translation>
       <translation id="2">
-        <text>טֶכְנַאי</text>
+        <text>שְׁתֵים עֶשְׂרֵה</text>
       </translation>
     </entry>
     <entry id="242">
       <translation id="0">
-        <text>technician (f)</text>
+        <text>sorry</text>
       </translation>
       <translation id="1">
-        <text>טכנאית</text>
-        <comment>(f)</comment>
+        <text>סליחה</text>
       </translation>
       <translation id="2">
-        <text>טֶכְנָאִית</text>
+        <text>סְלִיחָה</text>
       </translation>
     </entry>
     <entry id="243">
       <translation id="0">
-        <text>bad (m)</text>
-      </translation>
-      <translation id="1">
-        <text>רע</text>
+        <text>head</text>
         <comment>(m)</comment>
       </translation>
+      <translation id="1">
+        <text>ראש</text>
+      </translation>
       <translation id="2">
-        <text>רַע</text>
+        <text>רֹאשׁ</text>
       </translation>
     </entry>
     <entry id="244">
       <translation id="0">
-        <text>Ireland</text>
+        <text>heads</text>
+        <comment>(m)</comment>
       </translation>
       <translation id="1">
-        <text>אירלנד</text>
-        <comment>(f)</comment>
+        <text>ראשים</text>
       </translation>
       <translation id="2">
-        <text>אִירְלַנְד</text>
+        <text>רָאשִׁים</text>
       </translation>
     </entry>
     <entry id="245">
       <translation id="0">
-        <text>wine</text>
-      </translation>
-      <translation id="1">
-        <text>יין</text>
+        <text>chocolate</text>
         <comment>(m)</comment>
       </translation>
+      <translation id="1">
+        <text>שוקולד</text>
+      </translation>
       <translation id="2">
-        <text>יַיִן</text>
+        <text>שׁוֹקוֹלָד</text>
       </translation>
     </entry>
     <entry id="246">
@@ -6567,17 +6567,61 @@
     </entry>
     <entry id="248">
       <translation id="0">
-        <text>song</text>
+        <text>wine</text>
       </translation>
       <translation id="1">
-        <text>שיר</text>
+        <text>יין</text>
         <comment>(m)</comment>
       </translation>
       <translation id="2">
-        <text>שִׁיר</text>
+        <text>יַיִן</text>
       </translation>
     </entry>
     <entry id="249">
+      <translation id="0">
+        <text>number</text>
+      </translation>
+      <translation id="1">
+        <text>מספר</text>
+      </translation>
+      <translation id="2">
+        <text>מִסְפָּר</text>
+      </translation>
+    </entry>
+    <entry id="250">
+      <translation id="0">
+        <text>numbers</text>
+      </translation>
+      <translation id="1">
+        <text>מספרים</text>
+      </translation>
+      <translation id="2">
+        <text>מִסְפָּרִים</text>
+      </translation>
+    </entry>
+    <entry id="251">
+      <translation id="0">
+        <text>only</text>
+      </translation>
+      <translation id="1">
+        <text>רק</text>
+      </translation>
+      <translation id="2">
+        <text>רַק</text>
+      </translation>
+    </entry>
+    <entry id="252">
+      <translation id="0">
+        <text>belonging to</text>
+      </translation>
+      <translation id="1">
+        <text>של</text>
+      </translation>
+      <translation id="2">
+        <text>שֶׁל</text>
+      </translation>
+    </entry>
+    <entry id="253">
       <translation id="0">
         <text>pupil (m)</text>
       </translation>
@@ -6589,7 +6633,7 @@
         <text>תַלְמִיד</text>
       </translation>
     </entry>
-    <entry id="250">
+    <entry id="254">
       <translation id="0">
         <text>pupil (f)</text>
       </translation>
@@ -6601,87 +6645,37 @@
         <text>תַלְמִידָה</text>
       </translation>
     </entry>
-    <entry id="251">
-      <translation id="0">
-        <text>belonging to</text>
-      </translation>
-      <translation id="1">
-        <text>של</text>
-      </translation>
-      <translation id="2">
-        <text>שֶׁל</text>
-      </translation>
-    </entry>
-    <entry id="252">
-      <translation id="0">
-        <text>here</text>
-      </translation>
-      <translation id="1">
-        <text>הנה</text>
-      </translation>
-      <translation id="2">
-        <text>הִנֵה</text>
-      </translation>
-    </entry>
-    <entry id="253">
-      <translation id="0">
-        <text>friend (m)</text>
-      </translation>
-      <translation id="1">
-        <text>חבר</text>
-        <comment>(m)</comment>
-      </translation>
-      <translation id="2">
-        <text>חָבֶר</text>
-      </translation>
-    </entry>
-    <entry id="254">
-      <translation id="0">
-        <text>friend (f)</text>
-      </translation>
-      <translation id="1">
-        <text>חברה</text>
-        <comment>(f)</comment>
-      </translation>
-      <translation id="2">
-        <text>חָבֶרָה</text>
-      </translation>
-    </entry>
     <entry id="255">
       <translation id="0">
-        <text>challah</text>
-        <comment>shabbat bread</comment>
+        <text>grandfather</text>
       </translation>
       <translation id="1">
-        <text>חלה</text>
-        <comment>(f)</comment>
+        <text>סבא</text>
       </translation>
       <translation id="2">
-        <text>חַלָה</text>
+        <text>סַבָּא</text>
       </translation>
     </entry>
     <entry id="256">
       <translation id="0">
-        <text>lemon</text>
+        <text>hour</text>
       </translation>
       <translation id="1">
-        <text>לימון</text>
-        <comment>(m)</comment>
+        <text>שעה</text>
       </translation>
       <translation id="2">
-        <text>לִימוֹן</text>
+        <text>שָׁעָה</text>
       </translation>
     </entry>
     <entry id="257">
       <translation id="0">
-        <text>salt</text>
+        <text>correct</text>
       </translation>
       <translation id="1">
-        <text>מלח</text>
-        <comment>(m)</comment>
+        <text>נכון</text>
       </translation>
       <translation id="2">
-        <text>מֶלַח</text>
+        <text>נָכוֹן</text>
       </translation>
     </entry>
     <entry id="258">
@@ -6696,6 +6690,335 @@
       </translation>
     </entry>
     <entry id="259">
+      <translation id="0">
+        <text>sandwich</text>
+      </translation>
+      <translation id="1">
+        <text>כריך</text>
+      </translation>
+      <translation id="2">
+        <text>כָּרִיך</text>
+      </translation>
+    </entry>
+    <entry id="260">
+      <translation id="0">
+        <text>apple</text>
+      </translation>
+      <translation id="1">
+        <text>תפוח</text>
+      </translation>
+      <translation id="2">
+        <text>תַפּוּחַ</text>
+      </translation>
+    </entry>
+    <entry id="261">
+      <translation id="0">
+        <text>news (sing)</text>
+      </translation>
+      <translation id="1">
+        <text>חדשה</text>
+      </translation>
+      <translation id="2">
+        <text>חֲדָשָׁה</text>
+      </translation>
+    </entry>
+    <entry id="262">
+      <translation id="0">
+        <text>afterwards</text>
+      </translation>
+      <translation id="1">
+        <text>אחר כך</text>
+      </translation>
+      <translation id="2">
+        <text>אַחַר כַּך</text>
+      </translation>
+    </entry>
+    <entry id="263">
+      <translation id="0">
+        <text>half past</text>
+      </translation>
+      <translation id="1">
+        <text>וחצי</text>
+      </translation>
+      <translation id="2">
+        <text>וָחֵצִי</text>
+      </translation>
+    </entry>
+    <entry id="264">
+      <translation id="0">
+        <text>slowly</text>
+      </translation>
+      <translation id="1">
+        <text>לאט</text>
+      </translation>
+      <translation id="2">
+        <text>לְאַט</text>
+      </translation>
+    </entry>
+    <entry id="265">
+      <translation id="0">
+        <text>clerk (m)</text>
+      </translation>
+      <translation id="1">
+        <text>פקיד</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>פָּקִיד</text>
+      </translation>
+    </entry>
+    <entry id="266">
+      <translation id="0">
+        <text>clerk (f)</text>
+      </translation>
+      <translation id="1">
+        <text>פקידה</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>פְּקִידָה</text>
+      </translation>
+    </entry>
+    <entry id="267">
+      <translation id="0">
+        <text>architect (m)</text>
+      </translation>
+      <translation id="1">
+        <text>ארכיטקט</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>אַרְכִיטֶקְט</text>
+      </translation>
+    </entry>
+    <entry id="268">
+      <translation id="0">
+        <text>architect (f)</text>
+      </translation>
+      <translation id="1">
+        <text>ארכיטקטית</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>אַרְכִיטֶקְטִית</text>
+      </translation>
+    </entry>
+    <entry id="269">
+      <translation id="0">
+        <text>psychologist (m)</text>
+      </translation>
+      <translation id="1">
+        <text>פסיכולוג</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>פְּסִיכוֹלוֹג</text>
+      </translation>
+    </entry>
+    <entry id="270">
+      <translation id="0">
+        <text>psychologist (f)</text>
+      </translation>
+      <translation id="1">
+        <text>פסיכולוגית</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>פְּסיכוֹלוֹגִית</text>
+      </translation>
+    </entry>
+    <entry id="271">
+      <translation id="0">
+        <text>mister</text>
+      </translation>
+      <translation id="1">
+        <text>אדון</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>אָדוֹן</text>
+      </translation>
+    </entry>
+    <entry id="272">
+      <translation id="0">
+        <text>miss</text>
+      </translation>
+      <translation id="1">
+        <text>גברת</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>גְבֶרֶת</text>
+      </translation>
+    </entry>
+    <entry id="273">
+      <translation id="0">
+        <text>physicist (m)</text>
+      </translation>
+      <translation id="1">
+        <text>פיזיקאי</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>פִיזִיקַאי</text>
+      </translation>
+    </entry>
+    <entry id="274">
+      <translation id="0">
+        <text>physicist (f)</text>
+      </translation>
+      <translation id="1">
+        <text>פיזיקאית</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>פִיזִיקָאִית</text>
+      </translation>
+    </entry>
+    <entry id="275">
+      <translation id="0">
+        <text>technician (m)</text>
+      </translation>
+      <translation id="1">
+        <text>טכנאי</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>טֶכְנַאי</text>
+      </translation>
+    </entry>
+    <entry id="276">
+      <translation id="0">
+        <text>technician (f)</text>
+      </translation>
+      <translation id="1">
+        <text>טכנאית</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>טֶכְנָאִית</text>
+      </translation>
+    </entry>
+    <entry id="277">
+      <translation id="0">
+        <text>bad (m)</text>
+      </translation>
+      <translation id="1">
+        <text>רע</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>רַע</text>
+      </translation>
+    </entry>
+    <entry id="278">
+      <translation id="0">
+        <text>Ireland</text>
+      </translation>
+      <translation id="1">
+        <text>אירלנד</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>אִירְלַנְד</text>
+      </translation>
+    </entry>
+    <entry id="279">
+      <translation id="0">
+        <text>song</text>
+      </translation>
+      <translation id="1">
+        <text>שיר</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>שִׁיר</text>
+      </translation>
+    </entry>
+    <entry id="280">
+      <translation id="0">
+        <text>here</text>
+      </translation>
+      <translation id="1">
+        <text>הנה</text>
+      </translation>
+      <translation id="2">
+        <text>הִנֵה</text>
+      </translation>
+    </entry>
+    <entry id="281">
+      <translation id="0">
+        <text>friend (m)</text>
+      </translation>
+      <translation id="1">
+        <text>חבר</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>חָבֶר</text>
+      </translation>
+    </entry>
+    <entry id="282">
+      <translation id="0">
+        <text>friend (f)</text>
+      </translation>
+      <translation id="1">
+        <text>חברה</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>חָבֶרָה</text>
+      </translation>
+    </entry>
+    <entry id="283">
+      <translation id="0">
+        <text>challah</text>
+        <comment>shabbat bread</comment>
+      </translation>
+      <translation id="1">
+        <text>חלה</text>
+        <comment>(f)</comment>
+      </translation>
+      <translation id="2">
+        <text>חַלָה</text>
+      </translation>
+    </entry>
+    <entry id="284">
+      <translation id="0">
+        <text>lemon</text>
+      </translation>
+      <translation id="1">
+        <text>לימון</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>לִימוֹן</text>
+      </translation>
+    </entry>
+    <entry id="285">
+      <translation id="0">
+        <text>salt</text>
+      </translation>
+      <translation id="1">
+        <text>מלח</text>
+        <comment>(m)</comment>
+      </translation>
+      <translation id="2">
+        <text>מֶלַח</text>
+      </translation>
+    </entry>
+    <entry id="286">
+      <translation id="0">
+        <text>or</text>
+      </translation>
+      <translation id="1">
+        <text>או</text>
+      </translation>
+      <translation id="2">
+        <text>אוֹ</text>
+      </translation>
+    </entry>
+    <entry id="287">
       <translation id="0">
         <text>to sing</text>
         <comment>[kal]</comment>
@@ -6746,7 +7069,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="260">
+    <entry id="288">
       <translation id="0">
         <text>to</text>
         <comment>[dative] (up)</comment>
@@ -6758,7 +7081,7 @@
         <text>לְ</text>
       </translation>
     </entry>
-    <entry id="261">
+    <entry id="289">
       <translation id="0">
         <text>Romanian</text>
       </translation>
@@ -6769,7 +7092,7 @@
         <text>רוֹמָנִית</text>
       </translation>
     </entry>
-    <entry id="262">
+    <entry id="290">
       <translation id="0">
         <text>choice</text>
         <comment>(f)</comment>
@@ -6781,7 +7104,7 @@
         <text>בְּחִירָה</text>
       </translation>
     </entry>
-    <entry id="263">
+    <entry id="291">
       <translation id="0">
         <text>school</text>
         <comment>(m)</comment>
@@ -6793,7 +7116,7 @@
         <text>בֵּית סֶפֶר</text>
       </translation>
     </entry>
-    <entry id="264">
+    <entry id="292">
       <translation id="0">
         <text>radio</text>
         <comment>(m)</comment>
@@ -6805,7 +7128,7 @@
         <text>רַדִיוֹ</text>
       </translation>
     </entry>
-    <entry id="265">
+    <entry id="293">
       <translation id="0">
         <text>video</text>
         <comment>(m)</comment>
@@ -6817,31 +7140,7 @@
         <text>וִידֵאוֹ</text>
       </translation>
     </entry>
-    <entry id="266">
-      <translation id="0">
-        <text>head</text>
-        <comment>(m)</comment>
-      </translation>
-      <translation id="1">
-        <text>ראש</text>
-      </translation>
-      <translation id="2">
-        <text>רֹאשׁ</text>
-      </translation>
-    </entry>
-    <entry id="267">
-      <translation id="0">
-        <text>heads</text>
-        <comment>(m)</comment>
-      </translation>
-      <translation id="1">
-        <text>ראשים</text>
-      </translation>
-      <translation id="2">
-        <text>רָאשִׁים</text>
-      </translation>
-    </entry>
-    <entry id="268">
+    <entry id="294">
       <translation id="0">
         <text>chairman (m)</text>
         <comment>(m)</comment>
@@ -6853,7 +7152,7 @@
         <text>יוֹשֵׁב ראשׁ</text>
       </translation>
     </entry>
-    <entry id="269">
+    <entry id="295">
       <translation id="0">
         <text>job</text>
         <comment>(m) (work,labour)</comment>
@@ -6865,7 +7164,7 @@
         <text>עֲבוֹדָה</text>
       </translation>
     </entry>
-    <entry id="270">
+    <entry id="296">
       <translation id="0">
         <text>jobs</text>
         <comment>(m) (work,labour)</comment>
@@ -6877,18 +7176,7 @@
         <text>עֲבוֹדוֹת</text>
       </translation>
     </entry>
-    <entry id="271">
-      <translation id="0">
-        <text>only</text>
-      </translation>
-      <translation id="1">
-        <text>רק</text>
-      </translation>
-      <translation id="2">
-        <text>רַק</text>
-      </translation>
-    </entry>
-    <entry id="272">
+    <entry id="297">
       <translation id="0">
         <text>if</text>
       </translation>
@@ -6899,7 +7187,7 @@
         <text>אִם</text>
       </translation>
     </entry>
-    <entry id="273">
+    <entry id="298">
       <translation id="0">
         <text>to want</text>
         <comment>[kal]</comment>
@@ -6950,7 +7238,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="274">
+    <entry id="299">
       <translation id="0">
         <text>to see</text>
         <comment>[kal]</comment>
@@ -7001,7 +7289,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="275">
+    <entry id="300">
       <translation id="0">
         <text>to sit</text>
         <comment>[kal]</comment>
@@ -7052,7 +7340,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="276">
+    <entry id="301">
       <translation id="0">
         <text>to buy</text>
         <comment>[kal]</comment>
@@ -7103,7 +7391,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="277">
+    <entry id="302">
       <translation id="0">
         <text>country</text>
         <comment>(f)</comment>
@@ -7115,7 +7403,7 @@
         <text>אֶרֶץ</text>
       </translation>
     </entry>
-    <entry id="278">
+    <entry id="303">
       <translation id="0">
         <text>countries</text>
         <comment>(f)</comment>
@@ -7127,7 +7415,7 @@
         <text>אָרְצוֹת</text>
       </translation>
     </entry>
-    <entry id="279">
+    <entry id="304">
       <translation id="0">
         <text>cake</text>
         <comment>(f)</comment>
@@ -7139,7 +7427,7 @@
         <text>עוּגָה</text>
       </translation>
     </entry>
-    <entry id="280">
+    <entry id="305">
       <translation id="0">
         <text>cakes</text>
         <comment>(f)</comment>
@@ -7151,30 +7439,7 @@
         <text>עוּגָוֹת</text>
       </translation>
     </entry>
-    <entry id="281">
-      <translation id="0">
-        <text>chocolate</text>
-        <comment>(m)</comment>
-      </translation>
-      <translation id="1">
-        <text>שוקולד</text>
-      </translation>
-      <translation id="2">
-        <text>שׁוֹקוֹלָד</text>
-      </translation>
-    </entry>
-    <entry id="282">
-      <translation id="0">
-        <text>sorry</text>
-      </translation>
-      <translation id="1">
-        <text>סליחה</text>
-      </translation>
-      <translation id="2">
-        <text>סְלִיחָה</text>
-      </translation>
-    </entry>
-    <entry id="283">
+    <entry id="306">
       <translation id="0">
         <text>maybe</text>
       </translation>
@@ -7185,7 +7450,7 @@
         <text>אוּלַי</text>
       </translation>
     </entry>
-    <entry id="284">
+    <entry id="307">
       <translation id="0">
         <text>to where</text>
         <comment>[place]</comment>
@@ -7203,7 +7468,7 @@
         <text>לְאָן</text>
       </translation>
     </entry>
-    <entry id="285">
+    <entry id="308">
       <translation id="0">
         <text>Sinai</text>
       </translation>
@@ -7214,12 +7479,12 @@
         <text>סִינַי</text>
       </translation>
     </entry>
-    <entry id="286">
+    <entry id="309">
       <translation id="0"/>
       <translation id="1"/>
       <translation id="2"/>
     </entry>
-    <entry id="287">
+    <entry id="310">
       <translation id="0">
         <text>how much</text>
       </translation>
@@ -7230,7 +7495,7 @@
         <text>כַּמָה</text>
       </translation>
     </entry>
-    <entry id="288">
+    <entry id="311">
       <translation id="0">
         <text>how</text>
       </translation>
@@ -7241,7 +7506,7 @@
         <text>אֵיךְ</text>
       </translation>
     </entry>
-    <entry id="289">
+    <entry id="312">
       <translation id="0">
         <text>farmer</text>
       </translation>
@@ -7252,7 +7517,7 @@
         <text>אִיכָּר</text>
       </translation>
     </entry>
-    <entry id="290">
+    <entry id="313">
       <translation id="0">
         <text>vending machine</text>
       </translation>
@@ -7263,7 +7528,7 @@
         <text>אוֹטוֹמַט</text>
       </translation>
     </entry>
-    <entry id="291">
+    <entry id="314">
       <translation id="0">
         <text>autograph</text>
       </translation>
@@ -7274,7 +7539,7 @@
         <text>אוֹטוֹגְרַף</text>
       </translation>
     </entry>
-    <entry id="292">
+    <entry id="315">
       <translation id="0">
         <text>energy</text>
       </translation>
@@ -7285,7 +7550,7 @@
         <text>אֶנֶרְגְיָה</text>
       </translation>
     </entry>
-    <entry id="293">
+    <entry id="316">
       <translation id="0">
         <text>mail</text>
       </translation>
@@ -7296,7 +7561,7 @@
         <text>דוֹאַר</text>
       </translation>
     </entry>
-    <entry id="294">
+    <entry id="317">
       <translation id="0">
         <text>lake</text>
       </translation>
@@ -7307,7 +7572,7 @@
         <text>אֲגָם</text>
       </translation>
     </entry>
-    <entry id="295">
+    <entry id="318">
       <translation id="0">
         <text>office</text>
       </translation>
@@ -7319,7 +7584,7 @@
         <text>חֲדַר עֲבוֹדָה</text>
       </translation>
     </entry>
-    <entry id="296">
+    <entry id="319">
       <translation id="0">
         <text>kitchen</text>
       </translation>
@@ -7330,7 +7595,7 @@
         <text>מִטְבָּה</text>
       </translation>
     </entry>
-    <entry id="297">
+    <entry id="320">
       <translation id="0">
         <text>dining room</text>
       </translation>
@@ -7341,7 +7606,7 @@
         <text>חֲדַר אֹכֶל</text>
       </translation>
     </entry>
-    <entry id="298">
+    <entry id="321">
       <translation id="0">
         <text>bedroom</text>
       </translation>
@@ -7352,7 +7617,7 @@
         <text>חֲדַר שֵׁינָה</text>
       </translation>
     </entry>
-    <entry id="299">
+    <entry id="322">
       <translation id="0">
         <text>garage</text>
       </translation>
@@ -7363,7 +7628,7 @@
         <text>מוּסָךְ</text>
       </translation>
     </entry>
-    <entry id="300">
+    <entry id="323">
       <translation id="0">
         <text>bathroom</text>
       </translation>
@@ -7374,7 +7639,7 @@
         <text>חֲדַר אַמְבַּטְיָה</text>
       </translation>
     </entry>
-    <entry id="301">
+    <entry id="324">
       <translation id="0">
         <text>living room</text>
       </translation>
@@ -7385,7 +7650,7 @@
         <text>סָלוֹן</text>
       </translation>
     </entry>
-    <entry id="302">
+    <entry id="325">
       <translation id="0">
         <text>window</text>
       </translation>
@@ -7394,7 +7659,7 @@
       </translation>
       <translation id="2"/>
     </entry>
-    <entry id="303">
+    <entry id="326">
       <translation id="0">
         <text>carpet</text>
       </translation>
@@ -7405,7 +7670,7 @@
         <text>שָׁטִיחַ</text>
       </translation>
     </entry>
-    <entry id="304">
+    <entry id="327">
       <translation id="0">
         <text>basement</text>
       </translation>
@@ -7416,7 +7681,7 @@
         <text>מַרְתֵףּ</text>
       </translation>
     </entry>
-    <entry id="305">
+    <entry id="328">
       <translation id="0">
         <text>mailbox</text>
       </translation>
@@ -7427,7 +7692,7 @@
         <text>תֵיבַת דוֹאַר</text>
       </translation>
     </entry>
-    <entry id="306">
+    <entry id="329">
       <translation id="0">
         <text>red</text>
       </translation>
@@ -7438,7 +7703,7 @@
         <text>אָדוֹם</text>
       </translation>
     </entry>
-    <entry id="307">
+    <entry id="330">
       <translation id="0">
         <text>orange</text>
       </translation>
@@ -7449,7 +7714,7 @@
         <text>כָּתוֹם</text>
       </translation>
     </entry>
-    <entry id="308">
+    <entry id="331">
       <translation id="0">
         <text>blue</text>
       </translation>
@@ -7460,7 +7725,7 @@
         <text>כָּחוֹל</text>
       </translation>
     </entry>
-    <entry id="309">
+    <entry id="332">
       <translation id="0">
         <text>yellow</text>
       </translation>
@@ -7471,7 +7736,7 @@
         <text>צָהוֹב</text>
       </translation>
     </entry>
-    <entry id="310">
+    <entry id="333">
       <translation id="0">
         <text>green</text>
       </translation>
@@ -7482,7 +7747,7 @@
         <text>יָרוֹק</text>
       </translation>
     </entry>
-    <entry id="311">
+    <entry id="334">
       <translation id="0">
         <text>white</text>
       </translation>
@@ -7493,7 +7758,7 @@
         <text>לָבָן</text>
       </translation>
     </entry>
-    <entry id="312">
+    <entry id="335">
       <translation id="0">
         <text>brown</text>
       </translation>
@@ -7504,7 +7769,7 @@
         <text>חוּם</text>
       </translation>
     </entry>
-    <entry id="313">
+    <entry id="336">
       <translation id="0">
         <text>black</text>
       </translation>
@@ -7515,7 +7780,7 @@
         <text>שָׁחוֹר</text>
       </translation>
     </entry>
-    <entry id="314">
+    <entry id="337">
       <translation id="0">
         <text>colorful</text>
       </translation>
@@ -7526,7 +7791,7 @@
         <text>צִבְעוֹנִי</text>
       </translation>
     </entry>
-    <entry id="315">
+    <entry id="338">
       <translation id="0">
         <text>gray</text>
       </translation>
@@ -7537,7 +7802,7 @@
         <text>אָפוֹר</text>
       </translation>
     </entry>
-    <entry id="316">
+    <entry id="339">
       <translation id="0">
         <text>pink</text>
       </translation>
@@ -7548,7 +7813,7 @@
         <text>וָרוֹד</text>
       </translation>
     </entry>
-    <entry id="317">
+    <entry id="340">
       <translation id="0">
         <text>alcohol</text>
       </translation>
@@ -7559,7 +7824,7 @@
         <text>אַלְכּוֹהוֹל</text>
       </translation>
     </entry>
-    <entry id="318">
+    <entry id="341">
       <translation id="0">
         <text>elegant</text>
       </translation>
@@ -7570,7 +7835,7 @@
         <text>אֶלֶגַנְטִי</text>
       </translation>
     </entry>
-    <entry id="319">
+    <entry id="342">
       <translation id="0">
         <text>artist</text>
       </translation>
@@ -7581,7 +7846,7 @@
         <text>אֳמָן</text>
       </translation>
     </entry>
-    <entry id="320">
+    <entry id="343">
       <translation id="0">
         <text>ambulance</text>
       </translation>
@@ -7592,7 +7857,7 @@
         <text>אַמְבּוּלַנְס</text>
       </translation>
     </entry>
-    <entry id="321">
+    <entry id="344">
       <translation id="0">
         <text>infection</text>
       </translation>
@@ -7603,7 +7868,7 @@
         <text>אִינְפֶקְצְיָה</text>
       </translation>
     </entry>
-    <entry id="322">
+    <entry id="345">
       <translation id="0">
         <text>opera</text>
       </translation>
@@ -7614,7 +7879,7 @@
         <text>אוֹפֶּרָה</text>
       </translation>
     </entry>
-    <entry id="323">
+    <entry id="346">
       <translation id="0">
         <text>motorcycle</text>
       </translation>
@@ -7625,7 +7890,7 @@
         <text>אוֹפַנוֹעַ</text>
       </translation>
     </entry>
-    <entry id="324">
+    <entry id="347">
       <translation id="0">
         <text>car</text>
       </translation>
@@ -7636,7 +7901,7 @@
         <text>מְכוֹנִית</text>
       </translation>
     </entry>
-    <entry id="325">
+    <entry id="348">
       <translation id="0">
         <text>bicycle</text>
       </translation>
@@ -7647,7 +7912,7 @@
         <text>אוֹפַנַיִם</text>
       </translation>
     </entry>
-    <entry id="326">
+    <entry id="349">
       <translation id="0">
         <text>cow</text>
       </translation>
@@ -7658,7 +7923,7 @@
         <text>פָּרָה</text>
       </translation>
     </entry>
-    <entry id="327">
+    <entry id="350">
       <translation id="0">
         <text>bull</text>
       </translation>
@@ -7669,7 +7934,7 @@
         <text>פַּר</text>
       </translation>
     </entry>
-    <entry id="328">
+    <entry id="351">
       <translation id="0">
         <text>bar</text>
       </translation>
@@ -7680,7 +7945,7 @@
         <text>בַּר</text>
       </translation>
     </entry>
-    <entry id="329">
+    <entry id="352">
       <translation id="0">
         <text>daughter</text>
       </translation>
@@ -7691,7 +7956,7 @@
         <text>בַּת</text>
       </translation>
     </entry>
-    <entry id="330">
+    <entry id="353">
       <translation id="0">
         <text>holiday</text>
       </translation>
@@ -7702,7 +7967,7 @@
         <text>חַג</text>
       </translation>
     </entry>
-    <entry id="331">
+    <entry id="354">
       <translation id="0">
         <text>wave</text>
       </translation>
@@ -7713,18 +7978,7 @@
         <text>גַל</text>
       </translation>
     </entry>
-    <entry id="332">
-      <translation id="0">
-        <text>grandfather</text>
-      </translation>
-      <translation id="1">
-        <text>סבא</text>
-      </translation>
-      <translation id="2">
-        <text>סַבָּא</text>
-      </translation>
-    </entry>
-    <entry id="333">
+    <entry id="355">
       <translation id="0">
         <text>Sabbath</text>
       </translation>
@@ -7735,7 +7989,7 @@
         <text>שַׁבַּת</text>
       </translation>
     </entry>
-    <entry id="334">
+    <entry id="356">
       <translation id="0">
         <text>holidays</text>
       </translation>
@@ -7746,7 +8000,7 @@
         <text>חַגִים</text>
       </translation>
     </entry>
-    <entry id="335">
+    <entry id="357">
       <translation id="0">
         <text>cold (m)</text>
       </translation>
@@ -7757,7 +8011,7 @@
         <text>קַר</text>
       </translation>
     </entry>
-    <entry id="336">
+    <entry id="358">
       <translation id="0">
         <text>cold (f)</text>
       </translation>
@@ -7768,7 +8022,7 @@
         <text>קָרָה</text>
       </translation>
     </entry>
-    <entry id="337">
+    <entry id="359">
       <translation id="0">
         <text>butterfly</text>
       </translation>
@@ -7779,7 +8033,7 @@
         <text>פַּרפָּר</text>
       </translation>
     </entry>
-    <entry id="338">
+    <entry id="360">
       <translation id="0">
         <text>happy</text>
       </translation>
@@ -7790,7 +8044,7 @@
         <text>שָֹמֵחַ</text>
       </translation>
     </entry>
-    <entry id="339">
+    <entry id="361">
       <translation id="0">
         <text>why</text>
       </translation>
@@ -7801,7 +8055,7 @@
         <text>לָמָה</text>
       </translation>
     </entry>
-    <entry id="340">
+    <entry id="362">
       <translation id="0">
         <text>rabbi</text>
       </translation>
@@ -7812,7 +8066,7 @@
         <text>רַב</text>
       </translation>
     </entry>
-    <entry id="341">
+    <entry id="363">
       <translation id="0">
         <text>mister</text>
       </translation>
@@ -7823,7 +8077,7 @@
         <text>מַר</text>
       </translation>
     </entry>
-    <entry id="342">
+    <entry id="364">
       <translation id="0">
         <text>page</text>
       </translation>
@@ -7834,7 +8088,7 @@
         <text>דַף</text>
       </translation>
     </entry>
-    <entry id="343">
+    <entry id="365">
       <translation id="0">
         <text>conversation</text>
       </translation>
@@ -7845,7 +8099,7 @@
         <text>שִֹיחָה</text>
       </translation>
     </entry>
-    <entry id="344">
+    <entry id="366">
       <translation id="0">
         <text>physician (m)</text>
       </translation>
@@ -7856,7 +8110,7 @@
         <text>רוֹפֵא</text>
       </translation>
     </entry>
-    <entry id="345">
+    <entry id="367">
       <translation id="0">
         <text>family</text>
       </translation>
@@ -7867,7 +8121,7 @@
         <text>מִשְׁפָּחָה</text>
       </translation>
     </entry>
-    <entry id="346">
+    <entry id="368">
       <translation id="0">
         <text>really?</text>
       </translation>
@@ -7878,7 +8132,7 @@
         <text>בֶּאֱמֶת</text>
       </translation>
     </entry>
-    <entry id="347">
+    <entry id="369">
       <translation id="0">
         <text>which</text>
       </translation>
@@ -7889,29 +8143,7 @@
         <text>אֵיזֶה</text>
       </translation>
     </entry>
-    <entry id="348">
-      <translation id="0">
-        <text>one</text>
-      </translation>
-      <translation id="1">
-        <text>אחת</text>
-      </translation>
-      <translation id="2">
-        <text>אַחַת</text>
-      </translation>
-    </entry>
-    <entry id="349">
-      <translation id="0">
-        <text>two</text>
-      </translation>
-      <translation id="1">
-        <text>שתים</text>
-      </translation>
-      <translation id="2">
-        <text>שְׁתַיִם</text>
-      </translation>
-    </entry>
-    <entry id="350">
+    <entry id="370">
       <translation id="0">
         <text>street</text>
       </translation>
@@ -7922,115 +8154,7 @@
         <text>רְחוֹב</text>
       </translation>
     </entry>
-    <entry id="351">
-      <translation id="0">
-        <text>number</text>
-      </translation>
-      <translation id="1">
-        <text>מספר</text>
-      </translation>
-      <translation id="2">
-        <text>מִסְפָּר</text>
-      </translation>
-    </entry>
-    <entry id="352">
-      <translation id="0">
-        <text>numbers</text>
-      </translation>
-      <translation id="1">
-        <text>מספרים</text>
-      </translation>
-      <translation id="2">
-        <text>מִסְפָּרִים</text>
-      </translation>
-    </entry>
-    <entry id="353">
-      <translation id="0">
-        <text>three</text>
-      </translation>
-      <translation id="1">
-        <text>שלוש</text>
-      </translation>
-      <translation id="2">
-        <text>שָׁלוֹשׁ</text>
-      </translation>
-    </entry>
-    <entry id="354">
-      <translation id="0">
-        <text>four</text>
-      </translation>
-      <translation id="1">
-        <text>ארבע</text>
-      </translation>
-      <translation id="2">
-        <text>אַרְבַּע</text>
-      </translation>
-    </entry>
-    <entry id="355">
-      <translation id="0">
-        <text>five</text>
-      </translation>
-      <translation id="1">
-        <text>חמש</text>
-      </translation>
-      <translation id="2">
-        <text>חָמֵשׁ</text>
-      </translation>
-    </entry>
-    <entry id="356">
-      <translation id="0">
-        <text>six</text>
-      </translation>
-      <translation id="1">
-        <text>שש</text>
-      </translation>
-      <translation id="2">
-        <text>שֵׁשׁ</text>
-      </translation>
-    </entry>
-    <entry id="357">
-      <translation id="0">
-        <text>seven</text>
-      </translation>
-      <translation id="1">
-        <text>שבע</text>
-      </translation>
-      <translation id="2">
-        <text>שֶׁבַע</text>
-      </translation>
-    </entry>
-    <entry id="358">
-      <translation id="0">
-        <text>eight</text>
-      </translation>
-      <translation id="1">
-        <text>שמונה</text>
-      </translation>
-      <translation id="2">
-        <text>שְׁמוֹנֶה</text>
-      </translation>
-    </entry>
-    <entry id="359">
-      <translation id="0">
-        <text>nine</text>
-      </translation>
-      <translation id="1">
-        <text>תשע</text>
-      </translation>
-      <translation id="2"/>
-    </entry>
-    <entry id="360">
-      <translation id="0">
-        <text>zero</text>
-      </translation>
-      <translation id="1">
-        <text>אפס</text>
-      </translation>
-      <translation id="2">
-        <text>אֶפֶס</text>
-      </translation>
-    </entry>
-    <entry id="361">
+    <entry id="371">
       <translation id="0">
         <text>physician (f)</text>
       </translation>
@@ -8041,7 +8165,7 @@
         <text>רוֹפַא</text>
       </translation>
     </entry>
-    <entry id="362">
+    <entry id="372">
       <translation id="0">
         <text>secretary (m)</text>
       </translation>
@@ -8052,7 +8176,7 @@
         <text>מַזכִּיר</text>
       </translation>
     </entry>
-    <entry id="363">
+    <entry id="373">
       <translation id="0">
         <text>secretary (f)</text>
       </translation>
@@ -8063,7 +8187,7 @@
         <text>מַזכִּירָה</text>
       </translation>
     </entry>
-    <entry id="364">
+    <entry id="374">
       <translation id="0">
         <text>hard</text>
       </translation>
@@ -8074,7 +8198,7 @@
         <text>קָשֶׁה</text>
       </translation>
     </entry>
-    <entry id="365">
+    <entry id="375">
       <translation id="0">
         <text>ill (m)</text>
       </translation>
@@ -8085,7 +8209,7 @@
         <text>חוֹלֶה</text>
       </translation>
     </entry>
-    <entry id="366">
+    <entry id="376">
       <translation id="0">
         <text>ill (f)</text>
       </translation>
@@ -8096,7 +8220,7 @@
         <text>חוֹלָה</text>
       </translation>
     </entry>
-    <entry id="367">
+    <entry id="377">
       <translation id="0">
         <text>minute</text>
       </translation>
@@ -8107,7 +8231,7 @@
         <text>דַקָה</text>
       </translation>
     </entry>
-    <entry id="368">
+    <entry id="378">
       <translation id="0">
         <text>minutes</text>
       </translation>
@@ -8118,17 +8242,6 @@
         <text>דַקוֹת</text>
       </translation>
     </entry>
-    <entry id="369">
-      <translation id="0">
-        <text>hour</text>
-      </translation>
-      <translation id="1">
-        <text>שעה</text>
-      </translation>
-      <translation id="2">
-        <text>שָׁעָה</text>
-      </translation>
-    </entry>
   </entries>
   <lessons>
     <container>
@@ -8136,6 +8249,7 @@
       <inpractice>true</inpractice>
       <container>
         <name>Day 1</name>
+        <inpractice>true</inpractice>
         <entry id="0"/>
         <entry id="1"/>
         <entry id="2"/>
@@ -8176,6 +8290,7 @@
       </container>
       <container>
         <name>Day 2</name>
+        <inpractice>true</inpractice>
         <entry id="37"/>
         <entry id="38"/>
         <entry id="39"/>
@@ -8215,6 +8330,7 @@
       </container>
       <container>
         <name>Day 3</name>
+        <inpractice>true</inpractice>
         <entry id="73"/>
         <entry id="74"/>
         <entry id="75"/>
@@ -8264,6 +8380,7 @@
       </container>
       <container>
         <name>Day 4</name>
+        <inpractice>true</inpractice>
         <entry id="119"/>
         <entry id="120"/>
         <entry id="121"/>
@@ -8291,6 +8408,7 @@
       </container>
       <container>
         <name>Day 5</name>
+        <inpractice>true</inpractice>
         <entry id="143"/>
         <entry id="144"/>
         <entry id="145"/>
@@ -8312,10 +8430,11 @@
         <entry id="161"/>
         <entry id="162"/>
         <entry id="163"/>
-        <entry id="164"/>
       </container>
       <container>
         <name>Day 6</name>
+        <inpractice>true</inpractice>
+        <entry id="164"/>
         <entry id="165"/>
         <entry id="166"/>
         <entry id="167"/>
@@ -8333,10 +8452,11 @@
         <entry id="179"/>
         <entry id="180"/>
         <entry id="181"/>
-        <entry id="182"/>
       </container>
       <container>
         <name>Day 7</name>
+        <inpractice>true</inpractice>
+        <entry id="182"/>
         <entry id="183"/>
         <entry id="184"/>
         <entry id="185"/>
@@ -8356,12 +8476,12 @@
         <entry id="199"/>
         <entry id="200"/>
         <entry id="201"/>
-        <entry id="202"/>
-        <entry id="203"/>
       </container>
       <container>
         <name>Day 8</name>
         <inpractice>true</inpractice>
+        <entry id="202"/>
+        <entry id="203"/>
         <entry id="204"/>
         <entry id="205"/>
         <entry id="206"/>
@@ -8387,14 +8507,12 @@
         <entry id="226"/>
         <entry id="227"/>
         <entry id="228"/>
+      </container>
+      <container>
+        <name>Day 9</name>
+        <inpractice>true</inpractice>
         <entry id="229"/>
         <entry id="230"/>
-      </container>
-    </container>
-    <container>
-      <name>Class A</name>
-      <container>
-        <name>Lesson A.1</name>
         <entry id="231"/>
         <entry id="232"/>
         <entry id="233"/>
@@ -8407,21 +8525,9 @@
         <entry id="240"/>
         <entry id="241"/>
         <entry id="242"/>
-      </container>
-      <container>
-        <name>Lesson A.2</name>
         <entry id="243"/>
-      </container>
-    </container>
-    <container>
-      <name>Class B</name>
-      <container>
-        <name>Lesson B.2</name>
         <entry id="244"/>
         <entry id="245"/>
-      </container>
-      <container>
-        <name>Lesson B.3</name>
         <entry id="246"/>
         <entry id="247"/>
         <entry id="248"/>
@@ -8429,9 +8535,6 @@
         <entry id="250"/>
         <entry id="251"/>
         <entry id="252"/>
-      </container>
-      <container>
-        <name>Lesson B.4</name>
         <entry id="253"/>
         <entry id="254"/>
         <entry id="255"/>
@@ -8441,16 +8544,18 @@
         <entry id="259"/>
         <entry id="260"/>
         <entry id="261"/>
-      </container>
-      <container>
-        <name>Lesson B.5</name>
         <entry id="262"/>
         <entry id="263"/>
         <entry id="264"/>
-        <entry id="265"/>
       </container>
+    </container>
+    <container>
+      <name>Class A</name>
+      <inpractice>true</inpractice>
       <container>
-        <name>Lesson B.6</name>
+        <name>Lesson A.1</name>
+        <inpractice>true</inpractice>
+        <entry id="265"/>
         <entry id="266"/>
         <entry id="267"/>
         <entry id="268"/>
@@ -8461,33 +8566,52 @@
         <entry id="273"/>
         <entry id="274"/>
         <entry id="275"/>
+        <entry id="276"/>
       </container>
       <container>
-        <name>Lesson B.7</name>
-        <entry id="276"/>
+        <name>Lesson A.2</name>
+        <inpractice>true</inpractice>
         <entry id="277"/>
+      </container>
+    </container>
+    <container>
+      <name>Class B</name>
+      <inpractice>true</inpractice>
+      <container>
+        <name>Lesson B.2</name>
+        <inpractice>true</inpractice>
         <entry id="278"/>
+      </container>
+      <container>
+        <name>Lesson B.3</name>
+        <inpractice>true</inpractice>
         <entry id="279"/>
         <entry id="280"/>
+      </container>
+      <container>
+        <name>Lesson B.4</name>
+        <inpractice>true</inpractice>
         <entry id="281"/>
         <entry id="282"/>
         <entry id="283"/>
         <entry id="284"/>
         <entry id="285"/>
         <entry id="286"/>
-      </container>
-    </container>
-    <container>
-      <name>Class C</name>
-      <container>
-        <name>Lesson C.ToDo</name>
         <entry id="287"/>
         <entry id="288"/>
         <entry id="289"/>
+      </container>
+      <container>
+        <name>Lesson B.5</name>
+        <inpractice>true</inpractice>
         <entry id="290"/>
         <entry id="291"/>
         <entry id="292"/>
         <entry id="293"/>
+      </container>
+      <container>
+        <name>Lesson B.6</name>
+        <inpractice>true</inpractice>
         <entry id="294"/>
         <entry id="295"/>
         <entry id="296"/>
@@ -8495,6 +8619,10 @@
         <entry id="298"/>
         <entry id="299"/>
         <entry id="300"/>
+      </container>
+      <container>
+        <name>Lesson B.7</name>
+        <inpractice>true</inpractice>
         <entry id="301"/>
         <entry id="302"/>
         <entry id="303"/>
@@ -8504,6 +8632,14 @@
         <entry id="307"/>
         <entry id="308"/>
         <entry id="309"/>
+      </container>
+    </container>
+    <container>
+      <name>Class C</name>
+      <inpractice>true</inpractice>
+      <container>
+        <name>Lesson C.ToDo</name>
+        <inpractice>true</inpractice>
         <entry id="310"/>
         <entry id="311"/>
         <entry id="312"/>
@@ -8520,12 +8656,6 @@
         <entry id="323"/>
         <entry id="324"/>
         <entry id="325"/>
-      </container>
-    </container>
-    <container>
-      <name>Class D</name>
-      <container>
-        <name>Lesson D.1</name>
         <entry id="326"/>
         <entry id="327"/>
         <entry id="328"/>
@@ -8543,15 +8673,20 @@
         <entry id="340"/>
         <entry id="341"/>
         <entry id="342"/>
-      </container>
-      <container>
-        <name>Lesson D.2</name>
         <entry id="343"/>
         <entry id="344"/>
         <entry id="345"/>
         <entry id="346"/>
         <entry id="347"/>
         <entry id="348"/>
+      </container>
+    </container>
+    <container>
+      <name>Class D</name>
+      <inpractice>true</inpractice>
+      <container>
+        <name>Lesson D.1</name>
+        <inpractice>true</inpractice>
         <entry id="349"/>
         <entry id="350"/>
         <entry id="351"/>
@@ -8567,15 +8702,29 @@
         <entry id="361"/>
         <entry id="362"/>
         <entry id="363"/>
+        <entry id="364"/>
       </container>
       <container>
-        <name>Lesson D.3</name>
-        <entry id="364"/>
+        <name>Lesson D.2</name>
+        <inpractice>true</inpractice>
         <entry id="365"/>
         <entry id="366"/>
         <entry id="367"/>
         <entry id="368"/>
         <entry id="369"/>
+        <entry id="370"/>
+        <entry id="371"/>
+        <entry id="372"/>
+        <entry id="373"/>
+      </container>
+      <container>
+        <name>Lesson D.3</name>
+        <inpractice>true</inpractice>
+        <entry id="374"/>
+        <entry id="375"/>
+        <entry id="376"/>
+        <entry id="377"/>
+        <entry id="378"/>
       </container>
     </container>
   </lessons>
@@ -8586,103 +8735,82 @@
       <container>
         <name>noun (m)</name>
         <specialwordtype>noun/male</specialwordtype>
-        <entry id="231">
-          <translation id="1"/>
-        </entry>
-        <entry id="233">
-          <translation id="1"/>
-        </entry>
-        <entry id="235">
-          <translation id="1"/>
-        </entry>
-        <entry id="237">
-          <translation id="1"/>
-        </entry>
-        <entry id="239">
-          <translation id="1"/>
-        </entry>
-        <entry id="241">
-          <translation id="1"/>
-        </entry>
-        <entry id="245">
-          <translation id="1"/>
-        </entry>
-        <entry id="246">
-          <translation id="1"/>
-        </entry>
-        <entry id="248">
-          <translation id="1"/>
-        </entry>
-        <entry id="249">
-          <translation id="1"/>
-        </entry>
-        <entry id="253">
-          <translation id="1"/>
-        </entry>
-        <entry id="256">
-          <translation id="1"/>
-        </entry>
-        <entry id="257">
-          <translation id="1"/>
-        </entry>
-        <entry id="263">
-          <translation id="1"/>
-        </entry>
-        <entry id="264">
-          <translation id="1"/>
-        </entry>
         <entry id="265">
           <translation id="1"/>
         </entry>
-        <entry id="266">
-          <translation id="1"/>
-        </entry>
-        <entry id="268">
+        <entry id="267">
           <translation id="1"/>
         </entry>
         <entry id="269">
           <translation id="1"/>
         </entry>
+        <entry id="271">
+          <translation id="1"/>
+        </entry>
+        <entry id="273">
+          <translation id="1"/>
+        </entry>
+        <entry id="275">
+          <translation id="1"/>
+        </entry>
+        <entry id="279">
+          <translation id="1"/>
+        </entry>
         <entry id="281">
           <translation id="1"/>
         </entry>
-        <entry id="327">
+        <entry id="284">
           <translation id="1"/>
         </entry>
-        <entry id="328">
+        <entry id="285">
           <translation id="1"/>
         </entry>
-        <entry id="331">
+        <entry id="291">
           <translation id="1"/>
         </entry>
-        <entry id="332">
+        <entry id="292">
           <translation id="1"/>
         </entry>
-        <entry id="330">
+        <entry id="293">
           <translation id="1"/>
         </entry>
-        <entry id="337">
+        <entry id="294">
           <translation id="1"/>
         </entry>
-        <entry id="340">
-          <translation id="1"/>
-        </entry>
-        <entry id="341">
-          <translation id="1"/>
-        </entry>
-        <entry id="342">
-          <translation id="1"/>
-        </entry>
-        <entry id="351">
+        <entry id="295">
           <translation id="1"/>
         </entry>
         <entry id="350">
           <translation id="1"/>
         </entry>
-        <entry id="344">
+        <entry id="351">
+          <translation id="1"/>
+        </entry>
+        <entry id="354">
+          <translation id="1"/>
+        </entry>
+        <entry id="353">
+          <translation id="1"/>
+        </entry>
+        <entry id="359">
           <translation id="1"/>
         </entry>
         <entry id="362">
+          <translation id="1"/>
+        </entry>
+        <entry id="363">
+          <translation id="1"/>
+        </entry>
+        <entry id="364">
+          <translation id="1"/>
+        </entry>
+        <entry id="370">
+          <translation id="1"/>
+        </entry>
+        <entry id="366">
+          <translation id="1"/>
+        </entry>
+        <entry id="372">
           <translation id="1"/>
         </entry>
         <entry id="0">
@@ -8811,10 +8939,7 @@
         <entry id="161">
           <translation id="1"/>
         </entry>
-        <entry id="181">
-          <translation id="1"/>
-        </entry>
-        <entry id="174">
+        <entry id="180">
           <translation id="1"/>
         </entry>
         <entry id="173">
@@ -8835,10 +8960,10 @@
         <entry id="168">
           <translation id="1"/>
         </entry>
-        <entry id="166">
+        <entry id="167">
           <translation id="1"/>
         </entry>
-        <entry id="190">
+        <entry id="165">
           <translation id="1"/>
         </entry>
         <entry id="189">
@@ -8850,7 +8975,13 @@
         <entry id="187">
           <translation id="1"/>
         </entry>
-        <entry id="185">
+        <entry id="186">
+          <translation id="1"/>
+        </entry>
+        <entry id="184">
+          <translation id="1"/>
+        </entry>
+        <entry id="190">
           <translation id="1"/>
         </entry>
         <entry id="191">
@@ -8886,7 +9017,7 @@
         <entry id="201">
           <translation id="1"/>
         </entry>
-        <entry id="202">
+        <entry id="208">
           <translation id="1"/>
         </entry>
         <entry id="210">
@@ -8895,95 +9026,107 @@
         <entry id="212">
           <translation id="1"/>
         </entry>
-        <entry id="214">
+        <entry id="213">
+          <translation id="1"/>
+        </entry>
+        <entry id="222">
+          <translation id="1"/>
+        </entry>
+        <entry id="218">
+          <translation id="1"/>
+        </entry>
+        <entry id="217">
           <translation id="1"/>
         </entry>
         <entry id="215">
           <translation id="1"/>
         </entry>
-        <entry id="224">
+        <entry id="243">
           <translation id="1"/>
         </entry>
-        <entry id="220">
+        <entry id="245">
           <translation id="1"/>
         </entry>
-        <entry id="219">
+        <entry id="246">
           <translation id="1"/>
         </entry>
-        <entry id="217">
+        <entry id="248">
+          <translation id="1"/>
+        </entry>
+        <entry id="249">
+          <translation id="1"/>
+        </entry>
+        <entry id="253">
+          <translation id="1"/>
+        </entry>
+        <entry id="255">
           <translation id="1"/>
         </entry>
       </container>
       <container>
         <name>noun (f)</name>
         <specialwordtype>noun/female</specialwordtype>
-        <entry id="234">
+        <entry id="268">
           <translation id="1"/>
         </entry>
-        <entry id="236">
+        <entry id="270">
           <translation id="1"/>
         </entry>
-        <entry id="238">
+        <entry id="272">
           <translation id="1"/>
         </entry>
-        <entry id="240">
+        <entry id="274">
           <translation id="1"/>
         </entry>
-        <entry id="242">
+        <entry id="276">
           <translation id="1"/>
         </entry>
-        <entry id="232">
+        <entry id="266">
           <translation id="1"/>
         </entry>
-        <entry id="247">
+        <entry id="282">
           <translation id="1"/>
         </entry>
-        <entry id="250">
+        <entry id="283">
           <translation id="1"/>
         </entry>
-        <entry id="254">
+        <entry id="289">
           <translation id="1"/>
         </entry>
-        <entry id="255">
+        <entry id="278">
           <translation id="1"/>
         </entry>
-        <entry id="261">
+        <entry id="290">
           <translation id="1"/>
         </entry>
-        <entry id="244">
+        <entry id="302">
           <translation id="1"/>
         </entry>
-        <entry id="262">
-          <translation id="1"/>
-        </entry>
-        <entry id="277">
-          <translation id="1"/>
-        </entry>
-        <entry id="279">
-          <translation id="1"/>
-        </entry>
-        <entry id="322">
-          <translation id="1"/>
-        </entry>
-        <entry id="326">
-          <translation id="1"/>
-        </entry>
-        <entry id="329">
-          <translation id="1"/>
-        </entry>
-        <entry id="333">
-          <translation id="1"/>
-        </entry>
-        <entry id="343">
+        <entry id="304">
           <translation id="1"/>
         </entry>
         <entry id="345">
           <translation id="1"/>
         </entry>
-        <entry id="361">
+        <entry id="349">
           <translation id="1"/>
         </entry>
-        <entry id="363">
+        <entry id="352">
+          <translation id="1"/>
+        </entry>
+        <entry id="355">
+          <translation id="1"/>
+        </entry>
+        <entry id="365">
+          <translation id="1"/>
+        </entry>
+        <entry id="367">
+          <translation id="1"/>
+        </entry>
+        <entry id="371">
+          <translation id="1"/>
+        </entry>
+        <entry id="373">
           <translation id="1"/>
         </entry>
         <entry id="1">
@@ -9112,41 +9255,41 @@
         <entry id="156">
           <translation id="1"/>
         </entry>
-        <entry id="179">
+        <entry id="178">
           <translation id="1"/>
         </entry>
-        <entry id="165">
+        <entry id="164">
           <translation id="1"/>
         </entry>
-        <entry id="204">
+        <entry id="202">
           <translation id="1"/>
         </entry>
-        <entry id="205">
+        <entry id="203">
           <translation id="1"/>
         </entry>
-        <entry id="225">
-          <translation id="1"/>
-        </entry>
-        <entry id="218">
+        <entry id="223">
           <translation id="1"/>
         </entry>
         <entry id="216">
+          <translation id="1"/>
+        </entry>
+        <entry id="214">
+          <translation id="1"/>
+        </entry>
+        <entry id="247">
+          <translation id="1"/>
+        </entry>
+        <entry id="254">
           <translation id="1"/>
         </entry>
       </container>
       <container>
         <name>noun (m,pl)</name>
         <specialwordtype>noun</specialwordtype>
-        <entry id="267">
+        <entry id="296">
           <translation id="1"/>
         </entry>
-        <entry id="270">
-          <translation id="1"/>
-        </entry>
-        <entry id="334">
-          <translation id="1"/>
-        </entry>
-        <entry id="352">
+        <entry id="356">
           <translation id="1"/>
         </entry>
         <entry id="55">
@@ -9173,20 +9316,26 @@
         <entry id="159">
           <translation id="1"/>
         </entry>
-        <entry id="182">
+        <entry id="181">
           <translation id="1"/>
         </entry>
-        <entry id="213">
+        <entry id="211">
+          <translation id="1"/>
+        </entry>
+        <entry id="244">
+          <translation id="1"/>
+        </entry>
+        <entry id="250">
           <translation id="1"/>
         </entry>
       </container>
       <container>
         <name>noun (f,pl)</name>
         <specialwordtype>noun</specialwordtype>
-        <entry id="278">
+        <entry id="303">
           <translation id="1"/>
         </entry>
-        <entry id="280">
+        <entry id="305">
           <translation id="1"/>
         </entry>
         <entry id="53">
@@ -9201,10 +9350,10 @@
         <entry id="154">
           <translation id="1"/>
         </entry>
-        <entry id="178">
+        <entry id="177">
           <translation id="1"/>
         </entry>
-        <entry id="206">
+        <entry id="204">
           <translation id="1"/>
         </entry>
       </container>
@@ -9220,26 +9369,26 @@
     <container>
       <name>Verb</name>
       <specialwordtype>verb</specialwordtype>
-      <entry id="240">
-        <translation id="2"/>
-      </entry>
-      <entry id="259">
-        <translation id="1"/>
-        <translation id="2"/>
-      </entry>
-      <entry id="273">
-        <translation id="1"/>
-        <translation id="2"/>
-      </entry>
       <entry id="274">
+        <translation id="2"/>
+      </entry>
+      <entry id="287">
         <translation id="1"/>
         <translation id="2"/>
       </entry>
-      <entry id="275">
+      <entry id="298">
         <translation id="1"/>
         <translation id="2"/>
       </entry>
-      <entry id="276">
+      <entry id="299">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
+      <entry id="300">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
+      <entry id="301">
         <translation id="1"/>
         <translation id="2"/>
       </entry>
@@ -9294,19 +9443,19 @@
         <translation id="1"/>
         <translation id="2"/>
       </entry>
+      <entry id="205">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
+      <entry id="206">
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
       <entry id="207">
         <translation id="1"/>
         <translation id="2"/>
       </entry>
-      <entry id="208">
-        <translation id="1"/>
-        <translation id="2"/>
-      </entry>
-      <entry id="209">
-        <translation id="1"/>
-        <translation id="2"/>
-      </entry>
-      <entry id="227">
+      <entry id="225">
         <translation id="1"/>
         <translation id="2"/>
       </entry>
@@ -9330,22 +9479,22 @@
     <container>
       <name>Adjective</name>
       <specialwordtype>adjective</specialwordtype>
-      <entry id="313">
+      <entry id="336">
         <translation id="1"/>
       </entry>
-      <entry id="316">
+      <entry id="339">
         <translation id="1"/>
       </entry>
       <container>
         <name>Adjective (m)</name>
         <specialwordtype>adjective</specialwordtype>
-        <entry id="243">
+        <entry id="277">
           <translation id="1"/>
         </entry>
-        <entry id="335">
+        <entry id="357">
           <translation id="1"/>
         </entry>
-        <entry id="338">
+        <entry id="360">
           <translation id="1"/>
         </entry>
         <entry id="78">
@@ -9361,7 +9510,7 @@
       <container>
         <name>Adjective (f)</name>
         <specialwordtype>adjective</specialwordtype>
-        <entry id="336">
+        <entry id="358">
           <translation id="1"/>
         </entry>
         <entry id="127">
@@ -9372,10 +9521,7 @@
     <container>
       <name>Adverb</name>
       <specialwordtype>adverb</specialwordtype>
-      <entry id="271">
-        <translation id="1"/>
-      </entry>
-      <entry id="283">
+      <entry id="306">
         <translation id="1"/>
       </entry>
       <entry id="21">
@@ -9387,19 +9533,22 @@
       <entry id="125">
         <translation id="1"/>
       </entry>
-      <entry id="180">
+      <entry id="179">
         <translation id="1"/>
       </entry>
-      <entry id="186">
-        <translation id="1"/>
-      </entry>
-      <entry id="223">
-        <translation id="1"/>
-      </entry>
-      <entry id="222">
+      <entry id="185">
         <translation id="1"/>
       </entry>
       <entry id="221">
+        <translation id="1"/>
+      </entry>
+      <entry id="220">
+        <translation id="1"/>
+      </entry>
+      <entry id="219">
+        <translation id="1"/>
+      </entry>
+      <entry id="251">
         <translation id="1"/>
       </entry>
     </container>
@@ -9438,7 +9587,7 @@
     </container>
     <container>
       <name>Interrogativ</name>
-      <entry id="284">
+      <entry id="307">
         <translation id="1"/>
       </entry>
       <entry id="8">
@@ -9453,7 +9602,7 @@
       <entry id="83">
         <translation id="1"/>
       </entry>
-      <entry id="183">
+      <entry id="182">
         <translation id="1"/>
       </entry>
     </container>
@@ -9471,9 +9620,6 @@
     </container>
     <container>
       <name>Interjection</name>
-      <entry id="282">
-        <translation id="1"/>
-      </entry>
       <entry id="4">
         <translation id="1"/>
       </entry>
@@ -9483,10 +9629,13 @@
       <entry id="73">
         <translation id="1"/>
       </entry>
+      <entry id="242">
+        <translation id="1"/>
+      </entry>
     </container>
     <container>
       <name>preposition</name>
-      <entry id="260">
+      <entry id="288">
         <translation id="1"/>
       </entry>
       <entry id="20">
@@ -9501,10 +9650,10 @@
     </container>
     <container>
       <name>Conjunction</name>
-      <entry id="258">
+      <entry id="286">
         <translation id="1"/>
       </entry>
-      <entry id="272">
+      <entry id="297">
         <translation id="1"/>
       </entry>
       <entry id="9">
