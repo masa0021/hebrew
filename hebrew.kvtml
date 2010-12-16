@@ -73,7 +73,7 @@
         <malefemaledifferent/>
         <singular>
           <firstperson>אני</firstperson>
-          <secondperson>אתה,את</secondperson>
+          <secondperson>את</secondperson>
           <thirdpersonmale>הוא</thirdpersonmale>
           <thirdpersonfemale>היא</thirdpersonfemale>
         </singular>
@@ -82,7 +82,7 @@
         </dual>
         <plural>
           <firstperson>אנהנו</firstperson>
-          <secondperson>אתם,אתן</secondperson>
+          <secondperson>אתן</secondperson>
           <thirdpersonmale>הם</thirdpersonmale>
           <thirdpersonfemale>הן</thirdpersonfemale>
         </plural>
@@ -96,13 +96,13 @@
         <malefemaledifferent/>
         <singular>
           <firstperson>אֲנִי</firstperson>
-          <secondperson>אַתָה,אַתְ</secondperson>
+          <secondperson>אַתְ</secondperson>
           <thirdpersonmale>הוּא</thirdpersonmale>
           <thirdpersonfemale>הִיא</thirdpersonfemale>
         </singular>
         <plural>
           <firstperson>אֲנַחְנוּ</firstperson>
-          <secondperson>אֲתֶם,אֲתֶן</secondperson>
+          <secondperson>אֲתֶן</secondperson>
           <thirdpersonmale>הֶם</thirdpersonmale>
           <thirdpersonfemale>הֶן</thirdpersonfemale>
         </plural>
@@ -1021,56 +1021,6 @@
     </entry>
     <entry id="39">
       <translation id="0">
-        <text>to learn</text>
-        <comment>[kal]</comment>
-      </translation>
-      <translation id="1">
-        <text>ללמוד</text>
-        <conjugation>
-          <tense>Present</tense>
-          <singular>
-            <thirdpersonmale>
-              <text>לומד</text>
-            </thirdpersonmale>
-            <thirdpersonfemale>
-              <text>לומדת</text>
-            </thirdpersonfemale>
-          </singular>
-          <plural>
-            <thirdpersonmale>
-              <text>לומדים</text>
-            </thirdpersonmale>
-            <thirdpersonfemale>
-              <text>לומדות</text>
-            </thirdpersonfemale>
-          </plural>
-        </conjugation>
-      </translation>
-      <translation id="2">
-        <text>לִלְמוֹד</text>
-        <conjugation>
-          <tense>Present</tense>
-          <singular>
-            <thirdpersonmale>
-              <text>לוֹמֵד</text>
-            </thirdpersonmale>
-            <thirdpersonfemale>
-              <text>לוֹמֶדֶת</text>
-            </thirdpersonfemale>
-          </singular>
-          <plural>
-            <thirdpersonmale>
-              <text>לוֹמְדִים</text>
-            </thirdpersonmale>
-            <thirdpersonfemale>
-              <text>לוֹמְדוֹת</text>
-            </thirdpersonfemale>
-          </plural>
-        </conjugation>
-      </translation>
-    </entry>
-    <entry id="40">
-      <translation id="0">
         <text>Spain</text>
       </translation>
       <translation id="1">
@@ -1080,14 +1030,90 @@
         <text>סְפָרַד</text>
       </translation>
     </entry>
-    <entry id="41">
+    <entry id="40">
       <translation id="0">
         <text>Spanish</text>
       </translation>
       <translation id="1">
         <text>ספרדית</text>
       </translation>
-      <translation id="2"/>
+      <translation id="2">
+        <text>סְפָרַדִית</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>to speak</text>
+      </translation>
+      <translation id="1">
+        <text>לדבר</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <firstperson>
+              <text>מדבר</text>
+            </firstperson>
+            <secondperson>
+              <text>מדברת</text>
+            </secondperson>
+            <thirdpersonmale>
+              <text>מדבר</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>מדברת</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>מדברים</text>
+            </firstperson>
+            <secondperson>
+              <text>מדברות</text>
+            </secondperson>
+            <thirdpersonmale>
+              <text>מדברים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>מדברות</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+        <comment>מְדַבֵּר,מְדַבֶּרֶת</comment>
+      </translation>
+      <translation id="2">
+        <text>לְדַבֵּר</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <firstperson>
+              <text>מְדַבֵּר</text>
+            </firstperson>
+            <secondperson>
+              <text>מְדַבֶּרֶת</text>
+            </secondperson>
+            <thirdpersonmale>
+              <text>מְדַבֵּר</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>מְדַבֶּרֶת</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>מְדַבְּרִים</text>
+            </firstperson>
+            <secondperson>
+              <text>מְדַבְּרוֹת</text>
+            </secondperson>
+            <thirdpersonmale>
+              <text>מְדַבְּרִים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>מְדַבְּרוֹת</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+      </translation>
     </entry>
     <entry id="42">
       <translation id="0">
@@ -1174,36 +1200,6 @@
     </entry>
     <entry id="49">
       <translation id="0">
-        <text>to speak</text>
-      </translation>
-      <translation id="1">
-        <text>לדבר</text>
-      </translation>
-      <translation id="2">
-        <text>לְדַבֵּר</text>
-        <conjugation>
-          <tense>Present</tense>
-          <singular>
-            <thirdpersonmale>
-              <text>מְדַבֵּר</text>
-            </thirdpersonmale>
-            <thirdpersonfemale>
-              <text>מְדַבֶּרֶת</text>
-            </thirdpersonfemale>
-          </singular>
-          <plural>
-            <thirdpersonmale>
-              <text>מְדַבְּרִים</text>
-            </thirdpersonmale>
-            <thirdpersonfemale>
-              <text>מְדַבְּרוֹת</text>
-            </thirdpersonfemale>
-          </plural>
-        </conjugation>
-      </translation>
-    </entry>
-    <entry id="50">
-      <translation id="0">
         <text>truth</text>
       </translation>
       <translation id="1">
@@ -1213,7 +1209,7 @@
         <text>אֱמֶת</text>
       </translation>
     </entry>
-    <entry id="51">
+    <entry id="50">
       <translation id="0">
         <text>father</text>
       </translation>
@@ -1224,7 +1220,7 @@
         <text>אַבָּא</text>
       </translation>
     </entry>
-    <entry id="52">
+    <entry id="51">
       <translation id="0">
         <text>day</text>
       </translation>
@@ -1235,7 +1231,7 @@
         <text>יוֹם</text>
       </translation>
     </entry>
-    <entry id="53">
+    <entry id="52">
       <translation id="0">
         <text>today</text>
       </translation>
@@ -1246,7 +1242,7 @@
         <text>הַיוֹם</text>
       </translation>
     </entry>
-    <entry id="54">
+    <entry id="53">
       <translation id="0">
         <text>tea</text>
       </translation>
@@ -1258,7 +1254,7 @@
         <text>תֵה</text>
       </translation>
     </entry>
-    <entry id="55">
+    <entry id="54">
       <translation id="0">
         <text>sister</text>
         <comment>(f)</comment>
@@ -1270,7 +1266,7 @@
         <text>אָחוֹת</text>
       </translation>
     </entry>
-    <entry id="56">
+    <entry id="55">
       <translation id="0">
         <text>sisters</text>
         <comment>(f)</comment>
@@ -1282,7 +1278,7 @@
         <text>אֲחָיוֹת</text>
       </translation>
     </entry>
-    <entry id="57">
+    <entry id="56">
       <translation id="0">
         <text>brother</text>
         <comment>(m)</comment>
@@ -1294,7 +1290,7 @@
         <text>אָח</text>
       </translation>
     </entry>
-    <entry id="58">
+    <entry id="57">
       <translation id="0">
         <text>brothers</text>
         <comment>(m)</comment>
@@ -1306,7 +1302,7 @@
         <text>אָחִים</text>
       </translation>
     </entry>
-    <entry id="59">
+    <entry id="58">
       <translation id="0">
         <text>with</text>
       </translation>
@@ -1317,7 +1313,7 @@
         <text>עִם</text>
       </translation>
     </entry>
-    <entry id="60">
+    <entry id="59">
       <translation id="0">
         <text>where</text>
       </translation>
@@ -1328,7 +1324,7 @@
         <text>אֵיפֹה</text>
       </translation>
     </entry>
-    <entry id="61">
+    <entry id="60">
       <translation id="0">
         <text>to live</text>
         <comment>[kal] (in בְ) (to reside)</comment>
@@ -1360,7 +1356,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="62">
+    <entry id="61">
       <translation id="0">
         <text>to make</text>
         <comment>[kal] (do)</comment>
@@ -1411,7 +1407,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="63">
+    <entry id="62">
       <translation id="0">
         <text>to work</text>
         <comment>[kal]</comment>
@@ -1486,7 +1482,7 @@
         </conjugation>
       </translation>
     </entry>
-    <entry id="64">
+    <entry id="63">
       <translation id="0">
         <text>there is</text>
       </translation>
@@ -1497,7 +1493,7 @@
         <text>יֶשׁ</text>
       </translation>
     </entry>
-    <entry id="65">
+    <entry id="64">
       <translation id="0">
         <text>there is no</text>
       </translation>
@@ -1508,7 +1504,7 @@
         <text>אֵין</text>
       </translation>
     </entry>
-    <entry id="66">
+    <entry id="65">
       <translation id="0">
         <text>letter</text>
       </translation>
@@ -1519,7 +1515,7 @@
         <text>אוֹת</text>
       </translation>
     </entry>
-    <entry id="67">
+    <entry id="66">
       <translation id="0">
         <text>letters</text>
       </translation>
@@ -1530,7 +1526,7 @@
         <text>אוֹתיוֹת</text>
       </translation>
     </entry>
-    <entry id="68">
+    <entry id="67">
       <translation id="0">
         <text>Saturday</text>
       </translation>
@@ -1541,7 +1537,7 @@
         <text>יוֹם שַׁבָּת</text>
       </translation>
     </entry>
-    <entry id="69">
+    <entry id="68">
       <translation id="0">
         <text>Monday</text>
       </translation>
@@ -1552,7 +1548,7 @@
         <text>יוׂםשֵׁנִי</text>
       </translation>
     </entry>
-    <entry id="70">
+    <entry id="69">
       <translation id="0">
         <text>Tuesday</text>
       </translation>
@@ -1563,7 +1559,7 @@
         <text>יוׂם שְׁלִישִׁי</text>
       </translation>
     </entry>
-    <entry id="71">
+    <entry id="70">
       <translation id="0">
         <text>Wednesday</text>
       </translation>
@@ -1574,7 +1570,7 @@
         <text>יוׂם רְבִיעִי</text>
       </translation>
     </entry>
-    <entry id="72">
+    <entry id="71">
       <translation id="0">
         <text>Thursday</text>
       </translation>
@@ -1585,7 +1581,7 @@
         <text>יוׂם חֲמִישִׁי</text>
       </translation>
     </entry>
-    <entry id="73">
+    <entry id="72">
       <translation id="0">
         <text>Sunday</text>
       </translation>
@@ -1596,7 +1592,7 @@
         <text>יוׂם רִאשׁוֹן</text>
       </translation>
     </entry>
-    <entry id="74">
+    <entry id="73">
       <translation id="0">
         <text>Friday</text>
       </translation>
@@ -1605,6 +1601,59 @@
       </translation>
       <translation id="2">
         <text>יוׂם שִׁשִׁי</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>to learn</text>
+        <conjugation>
+          <tense>Simple Present</tense>
+        </conjugation>
+        <comment>[kal]</comment>
+      </translation>
+      <translation id="1">
+        <text>ללמוד</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>לומד</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>לומדת</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>לומדים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>לומדות</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="2">
+        <text>לִלְמוֹד</text>
+        <conjugation>
+          <tense>Present</tense>
+          <singular>
+            <thirdpersonmale>
+              <text>לוֹמֵד</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>לוֹמֶדֶת</text>
+            </thirdpersonfemale>
+          </singular>
+          <plural>
+            <thirdpersonmale>
+              <text>לוֹמְדִים</text>
+            </thirdpersonmale>
+            <thirdpersonfemale>
+              <text>לוֹמְדוֹת</text>
+            </thirdpersonfemale>
+          </plural>
+        </conjugation>
       </translation>
     </entry>
     <entry id="75">
@@ -6326,19 +6375,19 @@
           <translation id="0"/>
           <translation id="1"/>
         </entry>
+        <entry id="49">
+          <translation id="1"/>
+        </entry>
         <entry id="50">
           <translation id="1"/>
         </entry>
         <entry id="51">
           <translation id="1"/>
         </entry>
-        <entry id="52">
+        <entry id="53">
           <translation id="1"/>
         </entry>
-        <entry id="54">
-          <translation id="1"/>
-        </entry>
-        <entry id="57">
+        <entry id="56">
           <translation id="1"/>
         </entry>
         <entry id="83">
@@ -6703,10 +6752,10 @@
           <translation id="0"/>
           <translation id="1"/>
         </entry>
-        <entry id="55">
+        <entry id="54">
           <translation id="1"/>
         </entry>
-        <entry id="66">
+        <entry id="65">
           <translation id="1"/>
         </entry>
         <entry id="81">
@@ -6799,10 +6848,10 @@
         <entry id="256">
           <translation id="1"/>
         </entry>
-        <entry id="40">
+        <entry id="39">
           <translation id="1"/>
         </entry>
-        <entry id="41">
+        <entry id="40">
           <translation id="1"/>
         </entry>
       </container>
@@ -6815,7 +6864,7 @@
         <entry id="363">
           <translation id="1"/>
         </entry>
-        <entry id="58">
+        <entry id="57">
           <translation id="1"/>
         </entry>
         <entry id="115">
@@ -6861,10 +6910,10 @@
         <entry id="314">
           <translation id="1"/>
         </entry>
-        <entry id="56">
+        <entry id="55">
           <translation id="1"/>
         </entry>
-        <entry id="67">
+        <entry id="66">
           <translation id="1"/>
         </entry>
         <entry id="116">
@@ -6907,17 +6956,13 @@
         <translation id="1"/>
         <translation id="2"/>
       </entry>
-      <entry id="49">
+      <entry id="60">
         <translation id="1"/>
-        <translation id="2"/>
       </entry>
       <entry id="61">
         <translation id="1"/>
       </entry>
       <entry id="62">
-        <translation id="1"/>
-      </entry>
-      <entry id="63">
         <translation id="1"/>
       </entry>
       <entry id="79">
@@ -6979,20 +7024,25 @@
         <translation id="1"/>
         <translation id="2"/>
       </entry>
-      <entry id="39">
+      <entry id="74">
+        <translation id="0"/>
+        <translation id="1"/>
+        <translation id="2"/>
+      </entry>
+      <entry id="41">
         <translation id="1"/>
         <translation id="2"/>
       </entry>
       <container>
         <name>Verb</name>
         <specialwordtype>verb</specialwordtype>
+        <entry id="60">
+          <translation id="2"/>
+        </entry>
         <entry id="61">
           <translation id="2"/>
         </entry>
         <entry id="62">
-          <translation id="2"/>
-        </entry>
-        <entry id="63">
           <translation id="2"/>
         </entry>
       </container>
@@ -7046,7 +7096,7 @@
         <translation id="0"/>
         <translation id="1"/>
       </entry>
-      <entry id="53">
+      <entry id="52">
         <translation id="1"/>
       </entry>
       <entry id="127">
@@ -7120,7 +7170,7 @@
       <entry id="25">
         <translation id="1"/>
       </entry>
-      <entry id="60">
+      <entry id="59">
         <translation id="1"/>
       </entry>
       <entry id="85">
@@ -7170,7 +7220,7 @@
         <translation id="0"/>
         <translation id="1"/>
       </entry>
-      <entry id="59">
+      <entry id="58">
         <translation id="1"/>
       </entry>
     </container>
